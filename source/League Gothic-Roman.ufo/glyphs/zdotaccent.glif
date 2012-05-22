@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zdotaccent" format="1">
+  <advance width="260"/>
+  <unicode hex="017C"/>
+  <outline>
+    <contour>
+      <point x="6" y="82" type="line"/>
+      <point x="145" y="455" type="line"/>
+      <point x="28" y="455" type="line"/>
+      <point x="28" y="547" type="line"/>
+      <point x="252" y="547" type="line"/>
+      <point x="252" y="465" type="line"/>
+      <point x="113" y="92" type="line"/>
+      <point x="252" y="92" type="line"/>
+      <point x="252" y="0" type="line"/>
+      <point x="6" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="81" y="735" type="line"/>
+      <point x="182" y="735" type="line"/>
+      <point x="182" y="634" type="line"/>
+      <point x="81" y="634" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iogonek" format="1">
+  <advance width="188"/>
+  <unicode hex="012E"/>
+  <outline>
+    <contour>
+      <point x="40" y="735" type="line"/>
+      <point x="148" y="735" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="40" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12" y="-75"/>
+      <point x="4" y="-50"/>
+      <point x="21" y="-31" type="curve"/>
+      <point x="30" y="-20"/>
+      <point x="41" y="-9"/>
+      <point x="54" y="0" type="curve"/>
+      <point x="102" y="0" type="line"/>
+      <point x="85" y="-15"/>
+      <point x="73" y="-30"/>
+      <point x="64" y="-50" type="curve"/>
+      <point x="59" y="-60"/>
+      <point x="57" y="-71"/>
+      <point x="57" y="-83" type="curve" smooth="yes"/>
+      <point x="57" y="-112"/>
+      <point x="84" y="-121"/>
+      <point x="107" y="-121" type="curve" smooth="yes"/>
+      <point x="124" y="-121"/>
+      <point x="137" y="-117"/>
+      <point x="149" y="-112" type="curve"/>
+      <point x="141" y="-179" type="line"/>
+      <point x="120" y="-186"/>
+      <point x="107" y="-188"/>
+      <point x="90" y="-188" type="curve" smooth="yes"/>
+      <point x="25" y="-188"/>
+      <point x="-12" y="-148"/>
+      <point x="-12" y="-103" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>
