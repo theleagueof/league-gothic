@@ -325,6 +325,7 @@
 		<string>ogonek</string>
 		<string>ring</string>
 		<string>tilde</string>
+		<string>uni201F</string>
 	</array>
 	<key>com.schriftgestaltung.weightValue</key>
 	<real>400</real>
