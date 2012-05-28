@@ -23,22 +23,22 @@
       <point x="40" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="228" y="99"/>
-      <point x="168" y="107"/>
       <point x="148" y="107" type="curve"/>
       <point x="148" y="333" type="line"/>
       <point x="168" y="333"/>
       <point x="228" y="341"/>
       <point x="228" y="220" type="curve" smooth="yes"/>
+      <point x="228" y="99"/>
+      <point x="168" y="107"/>
     </contour>
     <contour>
-      <point x="228" y="429"/>
-      <point x="168" y="432"/>
       <point x="148" y="432" type="curve"/>
       <point x="148" y="628" type="line"/>
       <point x="168" y="628"/>
       <point x="228" y="631"/>
       <point x="228" y="530" type="curve" smooth="yes"/>
+      <point x="228" y="429"/>
+      <point x="168" y="432"/>
     </contour>
   </outline>
 </glyph>

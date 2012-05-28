@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="1">
+  <advance width="375"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="40.0" y="547.0" type="line" smooth="yes"/>
+      <point x="40.0" y="547.0"/>
+      <point x="40.0" y="171.170068027"/>
+      <point x="40.0" y="0.0" type="curve"/>
+      <point x="148.0" y="0.0" type="line"/>
+      <point x="148.0" y="193.496598639" type="line"/>
+      <point x="173.0" y="238.149659864" type="line"/>
+      <point x="179.0" y="249.31292517" type="line"/>
+      <point x="182.0" y="249.31292517" type="line"/>
+      <point x="185.0" y="238.149659864" type="line"/>
+      <point x="260.0" y="0.0" type="line"/>
+      <point x="365.0" y="0.0" type="line"/>
+      <point x="253.0" y="366.899319728" type="line"/>
+      <point x="352.0" y="547.0" type="line"/>
+      <point x="247.0" y="547.0" type="line"/>
+      <point x="157.0" y="364.666666667" type="line"/>
+      <point x="152.0" y="355.736054422" type="line"/>
+      <point x="148.0" y="355.736054422" type="line"/>
+      <point x="148.0" y="364.666666667" type="line"/>
+      <point x="148.0" y="547.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
