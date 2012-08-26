@@ -1,4 +1,9 @@
 {
+DisplayStrings = (
+"\"",
+"'",
+"'awesome'\012\"awesome\"\012\"AWESOME\""
+);
 copyright = "2009 - 2011, The League of Moveable Type";
 date = "2012-05-22 22:56:09 +0000";
 designer = "The League of Moveable Type";
@@ -7535,7 +7540,7 @@ unicode = 017B;
 },
 {
 glyphname = a;
-lastChange = "2012-05-22 22:56:21 +0000";
+lastChange = "2012-08-26 17:59:25 +0000";
 layers = (
 {
 anchors = (
@@ -7637,7 +7642,7 @@ nodes = (
 );
 }
 );
-width = 333;
+width = 323;
 }
 );
 leftKerningGroup = a;
@@ -18466,7 +18471,39 @@ unicode = 00BF;
 },
 {
 glyphname = quotedbl;
-lastChange = "2012-05-22 22:56:21 +0000";
+lastChange = "2012-08-26 18:00:07 +0000";
+layers = (
+{
+layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"53 466 LINE",
+"38 735 LINE",
+"143 735 LINE",
+"128 466 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"177 466 LINE",
+"162 735 LINE",
+"267 735 LINE",
+"252 466 LINE"
+);
+}
+);
+width = 260;
+}
+);
+unicode = 0022;
+},
+{
+glyphname = quotesingle;
+lastChange = "2012-08-26 17:59:09 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
@@ -18479,32 +18516,6 @@ nodes = (
 "28 735 LINE",
 "133 735 LINE",
 "118 466 LINE"
-);
-}
-);
-width = 161;
-}
-);
-unicode = 0022;
-},
-{
-glyphname = quotesingle;
-lastChange = "2012-05-22 22:56:21 +0000";
-layers = (
-{
-layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"127 624 LINE",
-"72 494 LINE",
-"22 494 LINE",
-"57 624 LINE",
-"22 624 LINE",
-"22 735 LINE",
-"127 735 LINE"
 );
 }
 );
