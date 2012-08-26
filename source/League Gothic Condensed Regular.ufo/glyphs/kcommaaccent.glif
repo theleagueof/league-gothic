@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="(null)" format="1">
-  <advance width="0"/>
+<glyph name="kcommaaccent" format="1">
+  <advance width="218"/>
+  <unicode hex="0137"/>
   <outline>
+    <contour>
+      <point x="138" y="-54" type="line"/>
+      <point x="70" y="-54" type="line"/>
+      <point x="70" y="-123" type="line"/>
+      <point x="88" y="-123" type="line"/>
+      <point x="76" y="-188" type="line"/>
+      <point x="125" y="-188" type="line"/>
+      <point x="138" y="-123" type="line"/>
+    </contour>
+    <contour>
+      <point x="15" y="735" type="line"/>
+      <point x="15" y="0" type="line"/>
+      <point x="91" y="0" type="line"/>
+      <point x="91" y="232" type="line"/>
+      <point x="126" y="0" type="line"/>
+      <point x="202" y="0" type="line"/>
+      <point x="137" y="359" type="line"/>
+      <point x="204" y="547" type="line"/>
+      <point x="128" y="547" type="line"/>
+      <point x="91" y="433" type="line"/>
+      <point x="91" y="735" type="line"/>
+    </contour>
   </outline>
 </glyph>

@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"\U00AE"
+);
 copyright = "Copyright (c) 2012 by The League of Moveable Type";
 customParameters = (
 {
@@ -16738,7 +16741,7 @@ unicode = 00A9;
 },
 {
 glyphname = registered;
-lastChange = "2012-08-26 17:21:30 +0000";
+lastChange = "2012-08-26 19:50:28 +0000";
 layers = (
 {
 layerId = "6463F33F-C059-4755-9C76-9F35D70521A0";
@@ -16831,10 +16834,7 @@ nodes = (
 "258 486 OFFCURVE",
 "259 470 OFFCURVE",
 "259 455 CURVE",
-"0 0 OFFCURVE",
-"0 0 OFFCURVE",
-"0 0 CURVE",
-"251 401 OFFCURVE",
+"259 401 OFFCURVE",
 "245 393 OFFCURVE",
 "239 393 CURVE SMOOTH",
 "235 393 LINE",
