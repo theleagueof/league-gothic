@@ -3109,7 +3109,7 @@ unicode = 0053;
 },
 {
 glyphname = T;
-lastChange = "2012-08-26 16:25:31 +0000";
+lastChange = "2012-08-26 16:42:29 +0000";
 layers = (
 {
 anchors = (
@@ -21534,6 +21534,7 @@ kerning = {
 "E10EC336-1202-48FF-9A55-15876E80CDFD" = {
 A = {
 W = "-30";
+T = "-26";
 };
 };
 };
