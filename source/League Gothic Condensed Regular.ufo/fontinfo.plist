@@ -29,9 +29,9 @@
 	<key>openTypeNameManufacturerURL</key>
 	<string>http://theleagueofmoveabletype.com</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>League Gothic Condensed</string>
+	<string>League Gothic</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Regular</string>
+	<string>Condensed Regular</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
@@ -46,7 +46,7 @@
 		<integer>743</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>LeagueGothicCondensed-Regular</string>
+	<string>LeagueGothic-CondensedRegular</string>
 	<key>postscriptFullName</key>
 	<string>League Gothic Condensed Regular</string>
 	<key>postscriptOtherBlues</key>

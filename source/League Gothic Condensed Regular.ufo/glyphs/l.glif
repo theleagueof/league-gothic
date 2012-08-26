@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="l" format="1">
-  <advance width="137"/>
-  <unicode hex="006C"/>
+<glyph name="(null)" format="1">
+  <advance width="0"/>
   <outline>
-    <contour>
-      <point x="94" y="0" type="line"/>
-      <point x="94" y="735" type="line"/>
-      <point x="15" y="735" type="line"/>
-      <point x="15" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="69" y="547" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="69" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="117" y="547" type="move" name="topright"/>
-    </contour>
   </outline>
 </glyph>

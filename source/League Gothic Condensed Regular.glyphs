@@ -1,9 +1,4 @@
 {
-DisplayStrings = (
-" \"",
-"'",
-"\"micah\"\012'IS'\012\"AWESOME\"\012WHAT ATTW"
-);
 copyright = "Copyright (c) 2012 by The League of Moveable Type";
 customParameters = (
 {
@@ -339,7 +334,7 @@ value = (
 date = "2012-08-26 17:07:18 +0000";
 designer = "Tyler Finck";
 designerURL = "http://sursly.com";
-familyName = "League Gothic Condensed";
+familyName = "League Gothic";
 fontMaster = (
 {
 alignmentZones = (
@@ -17563,7 +17558,7 @@ unicode = 00C1;
 disablesNiceNames = 1;
 instances = (
 {
-name = Regular;
+name = "Condensed Regular";
 widthClass = Condensed;
 }
 );
@@ -17612,6 +17607,9 @@ kerning = {
 "@MMK_R_a" = "-7";
 "@MMK_R_c" = "-3";
 "@MMK_R_quotesingle" = 12;
+};
+A = {
+"@MMK_R_V" = "-24";
 };
 Acircumflex = {
 T = "-22";
@@ -17999,9 +17997,6 @@ t = "-5";
 };
 ugrave = {
 t = "-5";
-};
-A = {
-"@MMK_R_V" = "-24";
 };
 };
 };
