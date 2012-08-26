@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hcircumflex" format="1">
+  <advance width="258"/>
+  <unicode hex="0124"/>
+  <outline>
+    <contour>
+      <point x="130" y="0" type="line"/>
+      <point x="213" y="0" type="line"/>
+      <point x="213" y="735" type="line"/>
+      <point x="130" y="735" type="line"/>
+      <point x="130" y="431" type="line"/>
+      <point x="98" y="431" type="line"/>
+      <point x="98" y="735" type="line"/>
+      <point x="15" y="735" type="line"/>
+      <point x="15" y="0" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="98" y="320" type="line"/>
+      <point x="130" y="320" type="line"/>
+    </contour>
+    <contour>
+      <point x="75" y="890" type="line"/>
+      <point x="33" y="800" type="line"/>
+      <point x="98" y="800" type="line"/>
+      <point x="115" y="839" type="line"/>
+      <point x="132" y="800" type="line"/>
+      <point x="197" y="800" type="line"/>
+      <point x="156" y="890" type="line"/>
+    </contour>
+  </outline>
+</glyph>
