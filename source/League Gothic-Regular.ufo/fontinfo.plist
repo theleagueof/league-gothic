@@ -11,7 +11,7 @@
 	<key>descender</key>
 	<integer>-265</integer>
 	<key>familyName</key>
-	<string>League Gothic Roman</string>
+	<string>League Gothic</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
 	<key>openTypeHeadCreated</key>
@@ -23,7 +23,7 @@
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>League Gothic</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Roman</string>
+	<string>Regular</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>

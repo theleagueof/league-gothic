@@ -293,9 +293,9 @@
 		<string>quotesinglbase</string>
 		<string>space</string>
 		<string>.notdef</string>
-		<string>Euro</string>
 		<string>cent</string>
 		<string>dollar</string>
+		<string>euro</string>
 		<string>sterling</string>
 		<string>yen</string>
 		<string>asciitilde</string>

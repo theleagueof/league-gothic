@@ -70,8 +70,6 @@
 	<string>Eogonek_.glif</string>
 	<key>Eth</key>
 	<string>Eth_.glif</string>
-	<key>Euro</key>
-	<string>Euro_.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
 	<key>G</key>
@@ -370,6 +368,8 @@
 	<string>equal.glif</string>
 	<key>eth</key>
 	<string>eth.glif</string>
+	<key>euro</key>
+	<string>euro.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
 	<key>exclamdown</key>
