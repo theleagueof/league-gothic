@@ -1,9 +1,4 @@
 {
-DisplayStrings = (
-"\"",
-"'",
-"'awesome'\012\"awesome\"\012\"AWESOME\""
-);
 copyright = "2009 - 2011, The League of Moveable Type";
 date = "2012-05-22 22:56:09 +0000";
 designer = "The League of Moveable Type";
