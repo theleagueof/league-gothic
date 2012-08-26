@@ -333,7 +333,7 @@ value = (
 date = "2012-08-26 16:25:00 +0000";
 designer = "Tyler Finck";
 designerURL = "http://sursly.com";
-familyName = "League Gothic Italic";
+familyName = "League Gothic";
 fontMaster = (
 {
 ascender = 735;
@@ -21521,7 +21521,6 @@ unicode = 201F;
 disablesNiceNames = 1;
 instances = (
 {
-isItalic = 1;
 name = Italic;
 }
 );

@@ -387,18 +387,6 @@ width = 92;
 );
 },
 {
-glyphname = NULL;
-lastChange = "2012-08-26 17:21:30 +0000";
-layers = (
-{
-layerId = "6463F33F-C059-4755-9C76-9F35D70521A0";
-name = "Regular Condensed";
-width = 0;
-}
-);
-leftKerningGroup = NULL;
-},
-{
 glyphname = CR;
 lastChange = "2012-08-26 17:21:30 +0000";
 layers = (
@@ -17673,13 +17661,9 @@ Agrave = 10;
 Aring = 10;
 Atilde = 10;
 CR = 10;
-NULL = 10;
 Y = "-20";
 Yacute = "-20";
 Ydieresis = "-20";
-};
-NULL = {
-T = "-22";
 };
 O = {
 T = "-10";
@@ -17722,7 +17706,6 @@ Agrave = "-22";
 Aring = "-22";
 Atilde = "-22";
 CR = "-22";
-NULL = "-22";
 T = 8;
 a = "-32";
 aacute = "-32";

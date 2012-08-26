@@ -1,9 +1,4 @@
 {
-DisplayStrings = (
-"\"",
-"'",
-"\"MICAH\"\012is 'extra'\012'AWESOME'"
-);
 copyright = "Copyright (c) 2012 by The League of Moveable Type";
 customParameters = (
 {
@@ -390,18 +385,6 @@ name = "Regular Condensed";
 width = 92;
 }
 );
-},
-{
-glyphname = NULL;
-lastChange = "2012-08-26 17:30:05 +0000";
-layers = (
-{
-layerId = "38BA14EB-08C8-4487-88C1-8F957131FCA1";
-name = "Regular Condensed";
-width = 0;
-}
-);
-leftKerningGroup = NULL;
 },
 {
 glyphname = CR;
@@ -17435,7 +17418,6 @@ unicode = 00C1;
 disablesNiceNames = 1;
 instances = (
 {
-isItalic = 1;
 name = "Condensed Italic";
 widthClass = Condensed;
 }
@@ -17485,6 +17467,9 @@ kerning = {
 "@MMK_R_a" = "-7";
 "@MMK_R_c" = "-3";
 "@MMK_R_quotesingle" = 12;
+};
+A = {
+"@MMK_R_V" = "-21";
 };
 Acircumflex = {
 T = "-22";
@@ -17548,13 +17533,9 @@ Agrave = 10;
 Aring = 10;
 Atilde = 10;
 CR = 10;
-NULL = 10;
 Y = "-20";
 Yacute = "-20";
 Ydieresis = "-20";
-};
-NULL = {
-T = "-22";
 };
 O = {
 T = "-10";
@@ -17597,7 +17578,6 @@ Agrave = "-22";
 Aring = "-22";
 Atilde = "-22";
 CR = "-22";
-NULL = "-22";
 T = 8;
 a = "-32";
 aacute = "-32";
@@ -17872,9 +17852,6 @@ t = "-5";
 };
 ugrave = {
 t = "-5";
-};
-A = {
-"@MMK_R_V" = "-21";
 };
 };
 };
