@@ -329,6 +329,8 @@
 	</array>
 	<key>com.schriftgestaltung.weightValue</key>
 	<real>400</real>
+	<key>com.schriftgestaltung.width</key>
+	<string>Condensed</string>
 	<key>com.schriftgestaltung.widthValue</key>
 	<real>5</real>
 </dict>

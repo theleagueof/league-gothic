@@ -1,31 +1,5 @@
 {
 copyright = "2009 - 2011, The League of Moveable Type";
-customParameters = (
-{
-name = openTypeNamePreferredSubfamilyName;
-value = Roman;
-},
-{
-name = postscriptFontName;
-value = "LeagueGothic-Roman";
-},
-{
-name = postscriptFullName;
-value = "League Gothic Roman";
-},
-{
-name = postscriptWeightName;
-value = Regular;
-},
-{
-name = styleMapStyleName;
-value = regular;
-},
-{
-name = styleName;
-value = Regular;
-}
-);
 date = "2012-05-22 22:56:09 +0000";
 designer = "The League of Moveable Type";
 designerURL = "http://theleagueofmoveabletype.com";
