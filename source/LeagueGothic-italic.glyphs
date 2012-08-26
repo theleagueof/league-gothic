@@ -2,7 +2,7 @@
 DisplayStrings = (
 "\"",
 "'",
-"'mia' IS \"AWESOME\"",
+"'mia' awesome \012SWEATING \"AWESOME\"",
 W
 );
 copyright = "2009 - 2011, The League of Moveable Type";
@@ -3512,13 +3512,13 @@ unicode = 0056;
 },
 {
 glyphname = W;
-lastChange = "2012-08-26 16:36:42 +0000";
+lastChange = "2012-08-26 16:41:24 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-position = "{223, 735}";
+position = "{243, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
@@ -3527,32 +3527,32 @@ paths = (
 {
 closed = 1;
 nodes = (
-"165 0 LINE",
-"81 0 LINE",
-"138 735 LINE",
-"238 735 LINE",
-"200 353 LINE",
-"196 329 LINE",
-"204 329 LINE",
-"213 353 LINE",
-"340 735 LINE",
-"418 735 LINE",
-"383 353 LINE",
-"380 329 LINE",
-"388 329 LINE",
-"396 353 LINE",
-"520 735 LINE",
-"620 735 LINE",
-"365 0 LINE",
-"281 0 LINE",
-"304 348 LINE",
-"308 391 LINE",
-"304 391 LINE",
-"288 348 LINE"
+"185 0 LINE",
+"101 0 LINE",
+"158 735 LINE",
+"258 735 LINE",
+"220 353 LINE",
+"216 329 LINE",
+"224 329 LINE",
+"233 353 LINE",
+"360 735 LINE",
+"438 735 LINE",
+"403 353 LINE",
+"400 329 LINE",
+"408 329 LINE",
+"416 353 LINE",
+"540 735 LINE",
+"640 735 LINE",
+"385 0 LINE",
+"301 0 LINE",
+"324 348 LINE",
+"328 391 LINE",
+"324 391 LINE",
+"308 348 LINE"
 );
 }
 );
-width = 476;
+width = 496;
 }
 );
 unicode = 0057;
@@ -21530,6 +21530,13 @@ instances = (
 name = Italic;
 }
 );
+kerning = {
+"E10EC336-1202-48FF-9A55-15876E80CDFD" = {
+A = {
+W = "-30";
+};
+};
+};
 manufacturer = "The League of Moveable Type";
 manufacturerURL = "http://theleagueofmoveabletype.com";
 unitsPerEm = 1000;
