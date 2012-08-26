@@ -20,6 +20,10 @@ value = "-265";
 );
 descender = "-265";
 id = "1AB499B8-18A8-432D-A211-B6882CCB886D";
+verticalStems = (
+101,
+108
+);
 weightValue = 400;
 widthValue = 5;
 xHeight = 547;
