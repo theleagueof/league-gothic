@@ -11,7 +11,7 @@
 	<key>descender</key>
 	<integer>-265</integer>
 	<key>familyName</key>
-	<string>League Gothic Condensed</string>
+	<string>League Gothic Condensed Italic</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
 	<key>openTypeHeadCreated</key>
@@ -70,9 +70,9 @@
 	<key>postscriptWeightName</key>
 	<string>Regular</string>
 	<key>styleMapStyleName</key>
-	<string>italic</string>
+	<string>regular</string>
 	<key>styleName</key>
-	<string>Italic</string>
+	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>

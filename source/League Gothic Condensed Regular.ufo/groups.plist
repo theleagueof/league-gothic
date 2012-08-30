@@ -156,7 +156,9 @@
 	</array>
 	<key>_quotesingle_r</key>
 	<array>
-		<string>quotesingle'</string>
+		<string>uni0093'</string>
+		<string>uni0094</string>
+		<string>quotesingle</string>
 		<string>quotedblleft</string>
 		<string>quotedblright</string>
 		<string>quoteleft</string>

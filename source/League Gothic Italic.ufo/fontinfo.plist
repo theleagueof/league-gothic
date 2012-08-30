@@ -29,7 +29,7 @@
 	<key>openTypeNameManufacturerURL</key>
 	<string>http://theleagueofmoveabletype.com</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>League Gothic Italic</string>
+	<string>League Gothic</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Italic</string>
 	<key>openTypeOS2WeightClass</key>
@@ -46,9 +46,9 @@
 		<integer>743</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>LeagueGothicItalic-Italic</string>
+	<string>LeagueGothic-Italic</string>
 	<key>postscriptFullName</key>
-	<string>League Gothic Italic Italic</string>
+	<string>League Gothic Italic</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-196</integer>
@@ -70,9 +70,9 @@
 	<key>postscriptWeightName</key>
 	<string>Regular</string>
 	<key>styleMapStyleName</key>
-	<string>italic</string>
+	<string>regular</string>
 	<key>styleName</key>
-	<string>Italic</string>
+	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>

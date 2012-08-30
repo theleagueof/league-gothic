@@ -329,6 +329,8 @@
 		<string>perthousand</string>
 		<string>A</string>
 		<string>Aacute</string>
+		<string>uni0093</string>
+		<string>uni0094</string>
 	</array>
 	<key>com.schriftgestaltung.weightValue</key>
 	<real>400</real>

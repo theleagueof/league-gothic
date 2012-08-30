@@ -48,7 +48,7 @@
 	</dict>
 	<key>E</key>
 	<dict>
-		<key>NULL</key>
+		<key>CR</key>
 		<integer>2</integer>
 	</dict>
 	<key>F</key>
@@ -134,19 +134,12 @@
 		<integer>10</integer>
 		<key>CR</key>
 		<integer>10</integer>
-		<key>NULL</key>
-		<integer>10</integer>
 		<key>Y</key>
 		<integer>-20</integer>
 		<key>Yacute</key>
 		<integer>-20</integer>
 		<key>Ydieresis</key>
 		<integer>-20</integer>
-	</dict>
-	<key>NULL</key>
-	<dict>
-		<key>T</key>
-		<integer>-22</integer>
 	</dict>
 	<key>O</key>
 	<dict>
@@ -223,8 +216,6 @@
 		<integer>-22</integer>
 		<key>CR</key>
 		<integer>-22</integer>
-		<key>NULL</key>
-		<integer>-22</integer>
 		<key>T</key>
 		<integer>8</integer>
 		<key>a</key>
@@ -294,7 +285,7 @@
 	</dict>
 	<key>Y</key>
 	<dict>
-		<key>NULL</key>
+		<key>CR</key>
 		<integer>-25</integer>
 		<key>a</key>
 		<integer>-42</integer>
@@ -771,7 +762,7 @@
 		<integer>-7</integer>
 		<key>c</key>
 		<integer>-3</integer>
-		<key>quotesingle</key>
+		<key>uni0093</key>
 		<integer>12</integer>
 	</dict>
 </dict>

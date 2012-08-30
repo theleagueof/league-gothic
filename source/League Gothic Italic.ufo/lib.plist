@@ -328,6 +328,8 @@
 		<string>Abreve</string>
 		<string>minus</string>
 		<string>uni201F</string>
+		<string>uni0093</string>
+		<string>uni0094</string>
 	</array>
 	<key>com.schriftgestaltung.weightValue</key>
 	<real>400</real>

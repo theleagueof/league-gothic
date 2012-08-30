@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"\U00AE"
-);
 copyright = "Copyright (c) 2012 by The League of Moveable Type";
 customParameters = (
 {
@@ -388,6 +385,83 @@ name = "Regular Condensed";
 width = 92;
 }
 );
+},
+{
+glyphname = uni0093;
+lastChange = "2012-08-30 15:12:10 +0000";
+layers = (
+{
+layerId = "6463F33F-C059-4755-9C76-9F35D70521A0";
+name = "Regular Condensed";
+paths = (
+{
+closed = 1;
+nodes = (
+"7 494 LINE",
+"88 494 LINE",
+"88 605 LINE",
+"67 605 LINE",
+"88 735 LINE",
+"40 735 LINE",
+"7 605 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"115 494 LINE",
+"196 494 LINE",
+"196 605 LINE",
+"175 605 LINE",
+"196 735 LINE",
+"148 735 LINE",
+"115 605 LINE"
+);
+}
+);
+width = 232;
+}
+);
+leftKerningGroup = quotesingle;
+unicode = 0093;
+},
+{
+glyphname = uni0094;
+layers = (
+{
+layerId = "6463F33F-C059-4755-9C76-9F35D70521A0";
+name = "Regular Condensed";
+paths = (
+{
+closed = 1;
+nodes = (
+"88 735 LINE",
+"7 735 LINE",
+"7 624 LINE",
+"28 624 LINE",
+"7 494 LINE",
+"55 494 LINE",
+"88 624 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"196 735 LINE",
+"115 735 LINE",
+"115 624 LINE",
+"136 624 LINE",
+"115 494 LINE",
+"163 494 LINE",
+"196 624 LINE"
+);
+}
+);
+width = 228;
+}
+);
+leftKerningGroup = quotesingle;
+unicode = 0094;
 },
 {
 glyphname = CR;
