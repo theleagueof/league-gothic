@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncaron" format="1">
+  <advance width="267"/>
+  <unicode hex="0147"/>
+  <outline>
+    <contour>
+      <point x="103" y="0" type="line"/>
+      <point x="173" y="0" type="line"/>
+      <point x="329" y="735" type="line"/>
+      <point x="252" y="735" type="line"/>
+      <point x="178" y="388" type="line"/>
+      <point x="192" y="735" type="line"/>
+      <point x="122" y="735" type="line"/>
+      <point x="-33" y="0" type="line"/>
+      <point x="43" y="0" type="line"/>
+      <point x="119" y="357" type="line"/>
+    </contour>
+    <contour>
+      <point x="286" y="825" type="line"/>
+      <point x="346" y="915" type="line"/>
+      <point x="281" y="915" type="line"/>
+      <point x="256" y="876" type="line"/>
+      <point x="247" y="915" type="line"/>
+      <point x="182" y="915" type="line"/>
+      <point x="205" y="825" type="line"/>
+    </contour>
+  </outline>
+</glyph>
