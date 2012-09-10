@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>735</integer>
+	<key>capHeight</key>
+	<integer>735</integer>
+	<key>copyright</key>
+	<string>2009 - 2011, The League of Moveable Type</string>
+	<key>descender</key>
+	<integer>-265</integer>
+	<key>familyName</key>
+	<string>League Gothic Italic</string>
+	<key>italicAngle</key>
+	<real>0.0</real>
+	<key>openTypeHeadCreated</key>
+	<string>2012/08/26 12:25:00</string>
+	<key>openTypeHheaAscender</key>
+	<integer>735</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-265</integer>
+	<key>openTypeNameDesigner</key>
+	<string>Tyler Finck</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://sursly.com</string>
+	<key>openTypeNameManufacturer</key>
+	<string>The League of Moveable Type</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://theleagueofmoveabletype.com</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>League Gothic</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Italic</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-8</integer>
+		<integer>0</integer>
+		<integer>547</integer>
+		<integer>555</integer>
+		<integer>735</integer>
+		<integer>743</integer>
+	</array>
+	<key>postscriptFontName</key>
+	<string>LeagueGothic-Italic</string>
+	<key>postscriptFullName</key>
+	<string>League Gothic Italic</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-196</integer>
+		<integer>-188</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>82</integer>
+		<integer>90</integer>
+		<integer>111</integer>
+		<integer>735</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>61</integer>
+		<integer>75</integer>
+		<integer>83</integer>
+	</array>
+	<key>postscriptWeightName</key>
+	<string>Regular</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>1</integer>
+	<key>xHeight</key>
+	<integer>547</integer>
+</dict>
+</plist>
