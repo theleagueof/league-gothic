@@ -1,0 +1,16 @@
+{
+  "name": "league-gothic",
+  "version": "1.0.0",
+  "ignore": [
+    "source/",
+    "images/",
+    "LeagueGothic-CondensedItalic.otf",
+    "LeagueGothic-CondensedRegular.otf",
+    "LeagueGothic-Italic.otf",
+    "LeagueGothic-Regular.otf"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Schniz/league-gothic.git"
+  }
+}
