@@ -11,7 +11,7 @@
 	<key>descender</key>
 	<integer>-265</integer>
 	<key>familyName</key>
-	<string>League Gothic Italic</string>
+	<string>League Gothic</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
 	<key>openTypeHeadCreated</key>
@@ -72,7 +72,7 @@
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>Italic</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
