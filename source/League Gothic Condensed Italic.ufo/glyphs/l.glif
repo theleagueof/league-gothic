@@ -9,14 +9,5 @@
       <point x="132" y="735" type="line"/>
       <point x="-24" y="0" type="line"/>
     </contour>
-    <contour>
-      <point x="69" y="547" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="69" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="117" y="547" type="move" name="topright"/>
-    </contour>
   </outline>
 </glyph>

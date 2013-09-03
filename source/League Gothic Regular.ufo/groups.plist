@@ -2,208 +2,211 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>_A_l</key>
+	<key>@KERN_LEFT_A</key>
 	<array>
-		<string>A'</string>
-		<string>Aacute</string>
-		<string>Acircumflex</string>
+		<string>A</string>
+		<string>Aring</string>
 		<string>Adieresis</string>
 		<string>Agrave</string>
-		<string>Aring</string>
 		<string>Atilde</string>
-	</array>
-	<key>_A_r</key>
-	<array>
-		<string>A'</string>
-		<string>Aacute</string>
 		<string>Acircumflex</string>
-		<string>Adieresis</string>
-		<string>Agrave</string>
-		<string>Aring</string>
-		<string>Atilde</string>
+		<string>Aacute</string>
 	</array>
-	<key>_E_l</key>
+	<key>@KERN_LEFT_E</key>
 	<array>
-		<string>E'</string>
-		<string>Eacute</string>
-		<string>Ecircumflex</string>
 		<string>Edieresis</string>
+		<string>Eacute</string>
 		<string>Egrave</string>
+		<string>Ecircumflex</string>
+		<string>E</string>
 	</array>
-	<key>_S_r</key>
+	<key>@KERN_LEFT_I</key>
 	<array>
-		<string>S'</string>
-		<string>Scaron</string>
+		<string>bar</string>
+		<string>Iacute</string>
+		<string>I</string>
+		<string>l</string>
+		<string>igrave</string>
+		<string>i</string>
+		<string>Igrave</string>
+		<string>iacute</string>
 	</array>
-	<key>_V_r</key>
+	<key>@KERN_LEFT_Icircumflex</key>
 	<array>
-		<string>V'</string>
-		<string>W</string>
+		<string>Icircumflex</string>
+		<string>icircumflex</string>
+		<string>Idieresis</string>
+		<string>idieresis</string>
 	</array>
-	<key>_Y_l</key>
+	<key>@KERN_LEFT_Y</key>
 	<array>
-		<string>Y'</string>
-		<string>Yacute</string>
+		<string>Y</string>
 		<string>Ydieresis</string>
-	</array>
-	<key>_Y_r</key>
-	<array>
-		<string>Y'</string>
 		<string>Yacute</string>
-		<string>Ydieresis</string>
 	</array>
-	<key>_a_l</key>
+	<key>@KERN_LEFT_a</key>
 	<array>
-		<string>a'</string>
-		<string>aacute</string>
-		<string>acircumflex</string>
+		<string>a</string>
+		<string>aring</string>
 		<string>adieresis</string>
 		<string>agrave</string>
-		<string>aring</string>
 		<string>atilde</string>
-	</array>
-	<key>_a_r</key>
-	<array>
-		<string>a'</string>
-		<string>aacute</string>
 		<string>acircumflex</string>
-		<string>adieresis</string>
-		<string>agrave</string>
-		<string>aring</string>
-		<string>atilde</string>
+		<string>aacute</string>
 	</array>
-	<key>_b_l</key>
+	<key>@KERN_LEFT_b</key>
 	<array>
-		<string>b'</string>
+		<string>p</string>
+		<string>ntilde</string>
+		<string>b</string>
 		<string>h</string>
+		<string>thorn</string>
 		<string>m</string>
 		<string>n</string>
-		<string>ntilde</string>
-		<string>p</string>
-		<string>thorn</string>
 	</array>
-	<key>_c_l</key>
+	<key>@KERN_LEFT_c</key>
 	<array>
-		<string>c'</string>
-		<string>ccedilla</string>
-		<string>e</string>
-		<string>eacute</string>
-		<string>ecircumflex</string>
-		<string>edieresis</string>
 		<string>egrave</string>
-		<string>o</string>
-		<string>oacute</string>
-		<string>ocircumflex</string>
+		<string>ecircumflex</string>
 		<string>odieresis</string>
 		<string>ograve</string>
-		<string>otilde</string>
-		<string>oe</string>
-	</array>
-	<key>_c_r</key>
-	<array>
-		<string>c'</string>
-		<string>ccedilla</string>
-		<string>e</string>
-		<string>eacute</string>
-		<string>ecircumflex</string>
-		<string>edieresis</string>
-		<string>egrave</string>
-		<string>o</string>
-		<string>oacute</string>
 		<string>ocircumflex</string>
+		<string>c</string>
+		<string>o</string>
+		<string>otilde</string>
+		<string>edieresis</string>
+		<string>oacute</string>
+		<string>eacute</string>
+		<string>ccedilla</string>
+		<string>oe</string>
+		<string>e</string>
+	</array>
+	<key>@KERN_LEFT_u</key>
+	<array>
+		<string>udieresis</string>
+		<string>uacute</string>
+		<string>ugrave</string>
+		<string>ucircumflex</string>
+		<string>u</string>
+	</array>
+	<key>@KERN_LEFT_v</key>
+	<array>
+		<string>y</string>
+		<string>ydieresis</string>
+		<string>yacute</string>
+		<string>w</string>
+		<string>v</string>
+	</array>
+	<key>@KERN_RIGHT_A</key>
+	<array>
+		<string>A</string>
+		<string>Aring</string>
+		<string>Adieresis</string>
+		<string>Agrave</string>
+		<string>Atilde</string>
+		<string>Acircumflex</string>
+		<string>Aacute</string>
+	</array>
+	<key>@KERN_RIGHT_I</key>
+	<array>
+		<string>bar</string>
+		<string>Iacute</string>
+		<string>I</string>
+		<string>l</string>
+		<string>igrave</string>
+		<string>i</string>
+		<string>Igrave</string>
+		<string>iacute</string>
+	</array>
+	<key>@KERN_RIGHT_Icircumflex</key>
+	<array>
+		<string>Icircumflex</string>
+		<string>icircumflex</string>
+		<string>Idieresis</string>
+		<string>idieresis</string>
+	</array>
+	<key>@KERN_RIGHT_S</key>
+	<array>
+		<string>S</string>
+		<string>Scaron</string>
+	</array>
+	<key>@KERN_RIGHT_V</key>
+	<array>
+		<string>W</string>
+		<string>V</string>
+	</array>
+	<key>@KERN_RIGHT_Y</key>
+	<array>
+		<string>Y</string>
+		<string>Ydieresis</string>
+		<string>Yacute</string>
+	</array>
+	<key>@KERN_RIGHT__empty_lu.0_st.1_cl.0</key>
+	<array>
+	</array>
+	<key>@KERN_RIGHT_a</key>
+	<array>
+		<string>a</string>
+		<string>aring</string>
+		<string>adieresis</string>
+		<string>agrave</string>
+		<string>atilde</string>
+		<string>acircumflex</string>
+		<string>aacute</string>
+	</array>
+	<key>@KERN_RIGHT_c</key>
+	<array>
+		<string>egrave</string>
+		<string>ecircumflex</string>
 		<string>odieresis</string>
 		<string>ograve</string>
+		<string>ocircumflex</string>
+		<string>c</string>
+		<string>o</string>
 		<string>otilde</string>
+		<string>edieresis</string>
+		<string>oacute</string>
+		<string>eacute</string>
+		<string>ccedilla</string>
 		<string>oe</string>
+		<string>e</string>
 	</array>
-	<key>_d_r</key>
+	<key>@KERN_RIGHT_d</key>
 	<array>
-		<string>d'</string>
 		<string>q</string>
+		<string>d</string>
 	</array>
-	<key>_icircumflex_l</key>
+	<key>@KERN_RIGHT_m</key>
 	<array>
-		<string>Icircumflex'</string>
-		<string>Idieresis</string>
-		<string>icircumflex</string>
-		<string>idieresis</string>
-	</array>
-	<key>_icircumflex_r</key>
-	<array>
-		<string>Icircumflex'</string>
-		<string>Idieresis</string>
-		<string>icircumflex</string>
-		<string>idieresis</string>
-	</array>
-	<key>_l_l</key>
-	<array>
-		<string>I'</string>
-		<string>Iacute</string>
-		<string>Igrave</string>
-		<string>i</string>
-		<string>iacute</string>
-		<string>igrave</string>
-		<string>l</string>
-		<string>bar</string>
-	</array>
-	<key>_l_r</key>
-	<array>
-		<string>I'</string>
-		<string>Iacute</string>
-		<string>Igrave</string>
-		<string>i</string>
-		<string>iacute</string>
-		<string>igrave</string>
-		<string>l</string>
-		<string>bar</string>
-	</array>
-	<key>_n_r</key>
-	<array>
-		<string>m'</string>
-		<string>n</string>
-		<string>ntilde</string>
 		<string>p</string>
+		<string>ntilde</string>
 		<string>r</string>
+		<string>m</string>
+		<string>n</string>
 	</array>
-	<key>_quotesingle_r</key>
+	<key>@KERN_RIGHT_quotedblleft</key>
 	<array>
-		<string>quotesingle'</string>
-		<string>quotedblleft</string>
 		<string>quotedblright</string>
+		<string>quotedblleft</string>
+		<string>uni0094</string>
+		<string>uni0093</string>
 		<string>quoteleft</string>
 		<string>quoteright</string>
-		<string>uni0093</string>
-		<string>uni0094</string>
 		<string>uni201F</string>
+		<string>quotesingle</string>
 	</array>
-	<key>_s_r</key>
+	<key>@KERN_RIGHT_s</key>
 	<array>
-		<string>s'</string>
+		<string>s</string>
 		<string>scaron</string>
 	</array>
-	<key>_u_l</key>
+	<key>@KERN_RIGHT_v</key>
 	<array>
-		<string>u'</string>
-		<string>uacute</string>
-		<string>ucircumflex</string>
-		<string>udieresis</string>
-		<string>ugrave</string>
-	</array>
-	<key>_v_l</key>
-	<array>
-		<string>v'</string>
-		<string>w</string>
 		<string>y</string>
-		<string>yacute</string>
 		<string>ydieresis</string>
-	</array>
-	<key>_v_r</key>
-	<array>
-		<string>v'</string>
+		<string>yacute</string>
 		<string>w</string>
-		<string>y</string>
-		<string>yacute</string>
-		<string>ydieresis</string>
+		<string>v</string>
 	</array>
 </dict>
 </plist>

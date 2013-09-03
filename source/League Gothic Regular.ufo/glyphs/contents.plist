@@ -70,6 +70,8 @@
 	<string>Eogonek_.glif</string>
 	<key>Eth</key>
 	<string>Eth_.glif</string>
+	<key>Euro</key>
+	<string>Euro_.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
 	<key>G</key>
@@ -192,8 +194,6 @@
 	<string>Tbar_.glif</string>
 	<key>Tcaron</key>
 	<string>Tcaron_.glif</string>
-	<key>Tcommaaccent</key>
-	<string>Tcommaaccent_.glif</string>
 	<key>Thorn</key>
 	<string>Thorn_.glif</string>
 	<key>U</key>
@@ -368,8 +368,6 @@
 	<string>equal.glif</string>
 	<key>eth</key>
 	<string>eth.glif</string>
-	<key>euro</key>
-	<string>euro.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
 	<key>exclamdown</key>
@@ -580,8 +578,6 @@
 	<string>tbar.glif</string>
 	<key>tcaron</key>
 	<string>tcaron.glif</string>
-	<key>tcommaaccent</key>
-	<string>tcommaaccent.glif</string>
 	<key>thorn</key>
 	<string>thorn.glif</string>
 	<key>three</key>
@@ -614,6 +610,10 @@
 	<string>uni0093.glif</string>
 	<key>uni0094</key>
 	<string>uni0094.glif</string>
+	<key>uni021A</key>
+	<string>uni021A_.glif</string>
+	<key>uni021B</key>
+	<string>uni021B_.glif</string>
 	<key>uni201F</key>
 	<string>uni201F_.glif</string>
 	<key>uogonek</key>

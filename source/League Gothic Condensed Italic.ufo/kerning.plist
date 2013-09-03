@@ -2,9 +2,90 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>@KERN_LEFT_E</key>
+	<dict>
+		<key>@KERN_RIGHT_Acircumflex</key>
+		<integer>2</integer>
+	</dict>
+	<key>@KERN_LEFT_I</key>
+	<dict>
+		<key>@KERN_RIGHT_c</key>
+		<integer>-2</integer>
+		<key>@KERN_RIGHT_s</key>
+		<integer>-5</integer>
+	</dict>
+	<key>@KERN_LEFT_Icircumflex</key>
+	<dict>
+		<key>@KERN_RIGHT_c</key>
+		<integer>-2</integer>
+	</dict>
+	<key>@KERN_LEFT_Y</key>
+	<dict>
+		<key>@KERN_RIGHT_Acircumflex</key>
+		<integer>-25</integer>
+		<key>@KERN_RIGHT_a</key>
+		<integer>-42</integer>
+		<key>@KERN_RIGHT_c</key>
+		<integer>-40</integer>
+		<key>@KERN_RIGHT_d</key>
+		<integer>-25</integer>
+	</dict>
+	<key>@KERN_LEFT_a</key>
+	<dict>
+		<key>@KERN_RIGHT_I</key>
+		<integer>-3</integer>
+		<key>@KERN_RIGHT_m</key>
+		<integer>-3</integer>
+		<key>@KERN_RIGHT_s</key>
+		<integer>-4</integer>
+		<key>@KERN_RIGHT_v</key>
+		<integer>-4</integer>
+	</dict>
+	<key>@KERN_LEFT_b</key>
+	<dict>
+		<key>@KERN_RIGHT_a</key>
+		<integer>-6</integer>
+		<key>@KERN_RIGHT_s</key>
+		<integer>-5</integer>
+	</dict>
+	<key>@KERN_LEFT_c</key>
+	<dict>
+		<key>@KERN_RIGHT_I</key>
+		<integer>-2</integer>
+		<key>@KERN_RIGHT_Icircumflex</key>
+		<integer>-2</integer>
+		<key>@KERN_RIGHT_a</key>
+		<integer>-5</integer>
+		<key>@KERN_RIGHT_m</key>
+		<integer>-2</integer>
+		<key>@KERN_RIGHT_s</key>
+		<integer>-4</integer>
+		<key>@KERN_RIGHT_v</key>
+		<integer>-5</integer>
+	</dict>
+	<key>@KERN_LEFT_u</key>
+	<dict>
+		<key>@KERN_RIGHT_c</key>
+		<integer>-4</integer>
+		<key>@KERN_RIGHT_s</key>
+		<integer>-4</integer>
+		<key>@KERN_RIGHT_v</key>
+		<integer>-5</integer>
+	</dict>
+	<key>@KERN_LEFT_v</key>
+	<dict>
+		<key>@KERN_RIGHT_a</key>
+		<integer>-7</integer>
+		<key>@KERN_RIGHT_c</key>
+		<integer>-3</integer>
+		<key>@KERN_RIGHT_quotedblleft</key>
+		<integer>12</integer>
+	</dict>
 	<key>A</key>
 	<dict>
 		<key>V</key>
+		<integer>-21</integer>
+		<key>W</key>
 		<integer>-21</integer>
 	</dict>
 	<key>Acircumflex</key>
@@ -45,11 +126,6 @@
 	<dict>
 		<key>T</key>
 		<integer>-22</integer>
-	</dict>
-	<key>E</key>
-	<dict>
-		<key>CR</key>
-		<integer>2</integer>
 	</dict>
 	<key>F</key>
 	<dict>
@@ -98,10 +174,6 @@
 	</dict>
 	<key>I</key>
 	<dict>
-		<key>c</key>
-		<integer>-2</integer>
-		<key>s</key>
-		<integer>-5</integer>
 		<key>t</key>
 		<integer>-4</integer>
 	</dict>
@@ -109,11 +181,6 @@
 	<dict>
 		<key>t</key>
 		<integer>-4</integer>
-	</dict>
-	<key>Icircumflex</key>
-	<dict>
-		<key>c</key>
-		<integer>-2</integer>
 	</dict>
 	<key>Igrave</key>
 	<dict>
@@ -283,31 +350,12 @@
 		<key>ydieresis</key>
 		<integer>-5</integer>
 	</dict>
-	<key>Y</key>
-	<dict>
-		<key>CR</key>
-		<integer>-25</integer>
-		<key>a</key>
-		<integer>-42</integer>
-		<key>c</key>
-		<integer>-40</integer>
-		<key>d</key>
-		<integer>-25</integer>
-	</dict>
 	<key>a</key>
 	<dict>
-		<key>I</key>
-		<integer>-3</integer>
 		<key>f</key>
 		<integer>-5</integer>
-		<key>m</key>
-		<integer>-3</integer>
-		<key>s</key>
-		<integer>-4</integer>
 		<key>t</key>
 		<integer>-7</integer>
-		<key>v</key>
-		<integer>-4</integer>
 	</dict>
 	<key>aacute</key>
 	<dict>
@@ -353,10 +401,6 @@
 	</dict>
 	<key>b</key>
 	<dict>
-		<key>a</key>
-		<integer>-6</integer>
-		<key>s</key>
-		<integer>-5</integer>
 		<key>t</key>
 		<integer>-6</integer>
 	</dict>
@@ -367,21 +411,9 @@
 	</dict>
 	<key>c</key>
 	<dict>
-		<key>I</key>
-		<integer>-2</integer>
-		<key>Icircumflex</key>
-		<integer>-2</integer>
-		<key>a</key>
-		<integer>-5</integer>
 		<key>f</key>
 		<integer>-5</integer>
-		<key>m</key>
-		<integer>-2</integer>
-		<key>s</key>
-		<integer>-4</integer>
 		<key>t</key>
-		<integer>-5</integer>
-		<key>v</key>
 		<integer>-5</integer>
 	</dict>
 	<key>ccedilla</key>
@@ -727,13 +759,7 @@
 	</dict>
 	<key>u</key>
 	<dict>
-		<key>c</key>
-		<integer>-4</integer>
-		<key>s</key>
-		<integer>-4</integer>
 		<key>t</key>
-		<integer>-5</integer>
-		<key>v</key>
 		<integer>-5</integer>
 	</dict>
 	<key>uacute</key>
@@ -755,15 +781,6 @@
 	<dict>
 		<key>t</key>
 		<integer>-5</integer>
-	</dict>
-	<key>v</key>
-	<dict>
-		<key>a</key>
-		<integer>-7</integer>
-		<key>c</key>
-		<integer>-3</integer>
-		<key>uni0093</key>
-		<integer>12</integer>
 	</dict>
 </dict>
 </plist>

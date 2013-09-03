@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="(null)" format="1">
-  <advance width="0"/>
+<glyph name="Ncommaaccent" format="1">
+  <advance width="395"/>
+  <unicode hex="0145"/>
   <outline>
+    <contour>
+      <point x="235" y="383" type="line"/>
+      <point x="233" y="417" type="line"/>
+      <point x="227" y="417" type="line"/>
+      <point x="139" y="0" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="196" y="735" type="line"/>
+      <point x="292" y="735" type="line"/>
+      <point x="315" y="352" type="line"/>
+      <point x="317" y="318" type="line"/>
+      <point x="323" y="318" type="line"/>
+      <point x="412" y="735" type="line"/>
+      <point x="511" y="735" type="line"/>
+      <point x="355" y="0" type="line"/>
+      <point x="259" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="188" y="-123" type="line"/>
+      <point x="153" y="-188" type="line"/>
+      <point x="102" y="-188" type="line"/>
+      <point x="135" y="-123" type="line"/>
+      <point x="104" y="-123" type="line"/>
+      <point x="119" y="-54" type="line"/>
+      <point x="203" y="-54" type="line"/>
+    </contour>
   </outline>
 </glyph>

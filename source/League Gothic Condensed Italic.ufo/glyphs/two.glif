@@ -5,7 +5,7 @@
   <outline>
     <contour>
       <point x="159" y="502" type="line"/>
-      <point x="170" y="553" type="line"/>
+      <point x="170" y="553" type="line" smooth="yes"/>
       <point x="172" y="565"/>
       <point x="190" y="643"/>
       <point x="206" y="643" type="curve" smooth="yes"/>

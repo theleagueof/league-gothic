@@ -16,8 +16,5 @@
       <point x="203" y="592"/>
       <point x="179" y="521" type="curve"/>
     </contour>
-    <contour>
-      <point x="118" y="735" type="move" name="top"/>
-    </contour>
   </outline>
 </glyph>
