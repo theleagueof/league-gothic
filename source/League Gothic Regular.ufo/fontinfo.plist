@@ -91,7 +91,7 @@
 	<integer>600</integer>
 	<key>openTypeOS2Type</key>
 	<array>
-		<integer>3</integer>
+		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>735</integer>
