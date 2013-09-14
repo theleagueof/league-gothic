@@ -11,7 +11,7 @@
 	<key>descender</key>
 	<integer>-265</integer>
 	<key>familyName</key>
-	<string>League Gothic</string>
+	<string>League Gothic Condensed</string>
 	<key>italicAngle</key>
 	<real>-12.0</real>
 	<key>openTypeHeadCreated</key>
@@ -143,7 +143,7 @@
 	<array>
 	</array>
 	<key>postscriptFontName</key>
-	<string>LeagueGothic-CondensedItalic</string>
+	<string>LeagueGothicCondensed-Italic</string>
 	<key>postscriptForceBold</key>
 	<false/>
 	<key>postscriptFullName</key>
@@ -175,7 +175,7 @@
 	<key>postscriptWeightName</key>
 	<string>Regular</string>
 	<key>styleMapFamilyName</key>
-	<string>League Gothic Condensed</string>
+	<string>League Gothic</string>
 	<key>styleMapStyleName</key>
 	<string>italic</string>
 	<key>styleName</key>
