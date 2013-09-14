@@ -41,6 +41,10 @@
 	<string>The League of Moveable Type</string>
 	<key>openTypeNameDesignerURL</key>
 	<string>http://theleagueofmoveabletype.com</string>
+	<key>openTypeNameManufacturer</key>
+	<string>The League of Moveable Type</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://theleagueofmoveabletype.com</string>
 	<key>openTypeNameUniqueID</key>
 	<string>1.560;UKWN;LeagueGothic-Regular</string>
 	<key>openTypeNameVersion</key>
