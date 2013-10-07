@@ -12,6 +12,7 @@
 @font-face {
   font-family: 'League Gothic';
   font-style: normal; /* Roman (Regular) */
+  src: url('leaguegothic-regular-webfont.eot'),
   src: url('leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'),
        url('leaguegothic-regular-webfont.woff') format('woff'),
        url('leaguegothic-regular-webfont.ttf')  format('truetype'),
@@ -21,6 +22,7 @@
 @font-face {
   font-family: 'League Gothic';
   font-style: italic;
+  src: url('leaguegothic-italic-webfont.eot'),
   src: url('leaguegothic-italic-webfont.eot?#iefix') format('embedded-opentype'),
        url('leaguegothic-italic-webfont.woff') format('woff'),
        url('leaguegothic-italic-webfont.ttf')  format('truetype'),
@@ -37,6 +39,7 @@
   font-family: 'League Gothic';
   font-stretch: condensed;
   font-style: normal; /* Roman (Regular) */
+  src: url('leaguegothic-condensed-regular-webfont.eot'),
   src: url('leaguegothic-condensed-regular-webfont.eot?#iefix') format('embedded-opentype'),
        url('leaguegothic-condensed-regular-webfont.woff') format('woff'),
        url('leaguegothic-condensed-regular-webfont.ttf')  format('truetype'),
@@ -47,6 +50,7 @@
   font-family: 'League Gothic';
   font-stretch: condensed;
   font-style: italic;
+  src: url('leaguegothic-condensed-italic-webfont.eot'),
   src: url('leaguegothic-condensed-italic-webfont.eot?#iefix') format('embedded-opentype'),
        url('leaguegothic-condensed-italic-webfont.woff') format('woff'),
        url('leaguegothic-condensed-italic-webfont.ttf')  format('truetype'),
