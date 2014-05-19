@@ -1,5 +1,10 @@
 ![League Gothic](https://github.com/theleagueof/league-gothic/raw/master/images/league-gothic-1.png)
 
+Installation
+============
+## Using [Bower](http://bower.io/)
+    bower install --save league-gothic
+
 League Gothic
 =============
 _by [Caroline Hadilaksono](http://www.hadilaksono.com), [Micah Rich](http://micahrich.com), & [Tyler Finck](http://sursly.com)_
