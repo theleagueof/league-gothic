@@ -12,7 +12,7 @@
 @font-face {
   font-family: 'League Gothic Condensed';
   font-style: normal; /* Roman (Regular) */
-  src: url('leaguegothic-condensed-regular-webfont.eot'),
+  src: url('leaguegothic-condensed-regular-webfont.eot');
   src: url('leaguegothic-condensed-regular-webfont.eot?#iefix') format('embedded-opentype'),
        url('leaguegothic-condensed-regular-webfont.woff') format('woff'),
        url('leaguegothic-condensed-regular-webfont.ttf')  format('truetype'),
@@ -22,7 +22,7 @@
 @font-face {
   font-family: 'League Gothic Condensed';
   font-style: italic;
-  src: url('leaguegothic-condensed-italic-webfont.eot'),
+  src: url('leaguegothic-condensed-italic-webfont.eot');
   src: url('leaguegothic-condensed-italic-webfont.eot?#iefix') format('embedded-opentype'),
        url('leaguegothic-condensed-italic-webfont.woff') format('woff'),
        url('leaguegothic-condensed-italic-webfont.ttf')  format('truetype'),
