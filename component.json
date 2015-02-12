@@ -1,0 +1,28 @@
+{
+    "name": "league-gothic",
+    "description": "A revival of an old classic, Alternate Gothic #1",
+    "version": "1.0.0",
+    "license": "OFL",
+    "repository": "actano/league-gothic",
+    "styles": [
+        "webfonts/stylesheet.css"
+    ],
+    "fonts": [
+        "webfonts/leaguegothic-condensed-italic-webfont.eot",
+        "webfonts/leaguegothic-condensed-italic-webfont.svg",
+        "webfonts/leaguegothic-condensed-italic-webfont.ttf",
+        "webfonts/leaguegothic-condensed-italic-webfont.woff",
+        "webfonts/leaguegothic-condensed-regular-webfont.eot",
+        "webfonts/leaguegothic-condensed-regular-webfont.svg",
+        "webfonts/leaguegothic-condensed-regular-webfont.ttf",
+        "webfonts/leaguegothic-condensed-regular-webfont.woff",
+        "webfonts/leaguegothic-italic-webfont.eot",
+        "webfonts/leaguegothic-italic-webfont.svg",
+        "webfonts/leaguegothic-italic-webfont.ttf",
+        "webfonts/leaguegothic-italic-webfont.woff",
+        "webfonts/leaguegothic-regular-webfont.eot",
+        "webfonts/leaguegothic-regular-webfont.svg",
+        "webfonts/leaguegothic-regular-webfont.ttf",
+        "webfonts/leaguegothic-regular-webfont.woff"
+    ]
+}
