@@ -3,7 +3,7 @@
     "description": "A revival of an old classic, Alternate Gothic #1",
     "version": "1.0.0",
     "license": "OFL",
-    "repository": "actano/league-gothic",
+    "repository": "theleagueof/league-gothic",
     "styles": [
         "webfonts/stylesheet.css"
     ],
