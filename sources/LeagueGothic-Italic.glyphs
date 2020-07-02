@@ -335,7 +335,6 @@ uni201F
 date = "2012-08-26 16:25:00 +0000";
 designer = "Tyler Finck";
 designerURL = "http://sursly.com";
-disablesNiceNames = 1;
 familyName = "League Gothic";
 fontMaster = (
 {
@@ -21271,9 +21270,11 @@ unicode = 201F;
 );
 instances = (
 {
+interpolationWeight = 400;
 instanceInterpolations = {
 "E10EC336-1202-48FF-9A55-15876E80CDFD" = 1;
 };
+isItalic = 1;
 name = Italic;
 }
 );
