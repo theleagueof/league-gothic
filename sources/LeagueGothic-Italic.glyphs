@@ -1,338 +1,341 @@
 {
+.appVersion = "1342";
 copyright = "2009 - 2011, The League of Moveable Type";
 customParameters = (
 {
 name = glyphOrder;
 value = (
-    ".notdef",
-    NULL,
-    uni000D,
-    space,
-    Acircumflex,
-    Adieresis,
-    Agrave,
-    Aring,
-    Atilde,
-    AE,
-    B,
-    C,
-    Ccedilla,
-    D,
-    E,
-    Eacute,
-    Ecircumflex,
-    Edieresis,
-    Egrave,
-    F,
-    G,
-    H,
-    I,
-    Iacute,
-    Icircumflex,
-    Idieresis,
-    Igrave,
-    J,
-    K,
-    L,
-    M,
-    N,
-    Ntilde,
-    O,
-    Oacute,
-    Ocircumflex,
-    Odieresis,
-    Ograve,
-    Oslash,
-    Otilde,
-    OE,
-    P,
-    Q,
-    R,
-    S,
-    T,
-    U,
-    Uacute,
-    Ucircumflex,
-    Udieresis,
-    Ugrave,
-    V,
-    W,
-    X,
-    Y,
-    Ydieresis,
-    Z,
-    a,
-    aacute,
-    acircumflex,
-    adieresis,
-    agrave,
-    aring,
-    atilde,
-    ae,
-    b,
-    c,
-    ccedilla,
-    d,
-    e,
-    eacute,
-    ecircumflex,
-    edieresis,
-    egrave,
-    f,
-    g,
-    h,
-    i,
-    dotlessi,
-    iacute,
-    icircumflex,
-    idieresis,
-    igrave,
-    j,
-    k,
-    l,
-    m,
-    n,
-    ntilde,
-    o,
-    oacute,
-    ocircumflex,
-    odieresis,
-    ograve,
-    oslash,
-    otilde,
-    oe,
-    p,
-    q,
-    r,
-    s,
-    germandbls,
-    t,
-    u,
-    uacute,
-    ucircumflex,
-    udieresis,
-    ugrave,
-    v,
-    w,
-    x,
-    y,
-    ydieresis,
-    z,
-    fi,
-    fl,
-    zero,
-    one,
-    two,
-    three,
-    four,
-    five,
-    six,
-    seven,
-    eight,
-    nine,
-    asterisk,
-    backslash,
-    bullet,
-    colon,
-    comma,
-    ellipsis,
-    exclam,
-    exclamdown,
-    numbersign,
-    period,
-    periodcentered,
-    question,
-    questiondown,
-    quotedbl,
-    quotesingle,
-    semicolon,
-    slash,
-    underscore,
-    braceleft,
-    braceright,
-    bracketleft,
-    bracketright,
-    parenleft,
-    parenright,
-    emdash,
-    endash,
-    hyphen,
-    quotedblbase,
-    quotedblleft,
-    quotedblright,
-    quoteleft,
-    quoteright,
-    quotesinglbase,
-    Euro,
-    cent,
-    dollar,
-    sterling,
-    yen,
-    asciitilde,
-    equal,
-    greater,
-    less,
-    percent,
-    plus,
-    ampersand,
-    at,
-    bar,
-    copyright,
-    registered,
-    trademark,
-    asciicircum,
-    acute,
-    breve,
-    caron,
-    cedilla,
-    circumflex,
-    dieresis,
-    dotaccent,
-    grave,
-    hungarumlaut,
-    macron,
-    ogonek,
-    ring,
-    tilde,
-    A,
-    Aacute,
-    Amacron,
-    Aogonek,
-    Cacute,
-    Ccaron,
-    Ccircumflex,
-    Cdotaccent,
-    Eth,
-    Dcaron,
-    Dcroat,
-    Ebreve,
-    Ecaron,
-    Edotaccent,
-    Emacron,
-    Eogonek,
-    Gbreve,
-    Gcircumflex,
-    Gcommaaccent,
-    Gdotaccent,
-    Hbar,
-    Hcircumflex,
-    IJ,
-    Ibreve,
-    Idotaccent,
-    Imacron,
-    Iogonek,
-    Itilde,
-    Jcircumflex,
-    Kcommaaccent,
-    Lacute,
-    Lcaron,
-    Lcommaaccent,
-    Ldot,
-    Lslash,
-    Nacute,
-    Ncaron,
-    Ncommaaccent,
-    Eng,
-    Obreve,
-    Ohungarumlaut,
-    Omacron,
-    Thorn,
-    Racute,
-    Rcaron,
-    Rcommaaccent,
-    Sacute,
-    Scaron,
-    Scedilla,
-    Scircumflex,
-    Tbar,
-    Tcaron,
-    uni021A,
-    Ubreve,
-    Uhungarumlaut,
-    Umacron,
-    Uogonek,
-    Uring,
-    Utilde,
-    Wcircumflex,
-    Yacute,
-    Ycircumflex,
-    Zacute,
-    Zcaron,
-    Zdotaccent,
-    abreve,
-    amacron,
-    aogonek,
-    cacute,
-    ccaron,
-    ccircumflex,
-    cdotaccent,
-    eth,
-    dcaron,
-    dcroat,
-    ebreve,
-    ecaron,
-    edotaccent,
-    emacron,
-    eogonek,
-    gbreve,
-    gcircumflex,
-    gcommaaccent,
-    gdotaccent,
-    hbar,
-    hcircumflex,
-    ibreve,
-    ij,
-    imacron,
-    iogonek,
-    itilde,
-    jcircumflex,
-    kcommaaccent,
-    kgreenlandic,
-    lacute,
-    lcaron,
-    lcommaaccent,
-    ldot,
-    lslash,
-    nacute,
-    napostrophe,
-    ncaron,
-    ncommaaccent,
-    eng,
-    obreve,
-    ohungarumlaut,
-    omacron,
-    thorn,
-    racute,
-    rcaron,
-    rcommaaccent,
-    sacute,
-    scaron,
-    scedilla,
-    scircumflex,
-    longs,
-    tbar,
-    tcaron,
-    uni021B,
-    ubreve,
-    uhungarumlaut,
-    umacron,
-    uogonek,
-    uring,
-    utilde,
-    wcircumflex,
-    yacute,
-    ycircumflex,
-    zacute,
-    zcaron,
-    zdotaccent,
-    Abreve,
-    minus,
-    uni201F
-);}
+.notdef,
+NULL,
+uni000D,
+space,
+Acircumflex,
+Adieresis,
+Agrave,
+Aring,
+Atilde,
+AE,
+B,
+C,
+Ccedilla,
+D,
+E,
+Eacute,
+Ecircumflex,
+Edieresis,
+Egrave,
+F,
+G,
+H,
+I,
+Iacute,
+Icircumflex,
+Idieresis,
+Igrave,
+J,
+K,
+L,
+M,
+N,
+Ntilde,
+O,
+Oacute,
+Ocircumflex,
+Odieresis,
+Ograve,
+Oslash,
+Otilde,
+OE,
+P,
+Q,
+R,
+S,
+T,
+U,
+Uacute,
+Ucircumflex,
+Udieresis,
+Ugrave,
+V,
+W,
+X,
+Y,
+Ydieresis,
+Z,
+a,
+aacute,
+acircumflex,
+adieresis,
+agrave,
+aring,
+atilde,
+ae,
+b,
+c,
+ccedilla,
+d,
+e,
+eacute,
+ecircumflex,
+edieresis,
+egrave,
+f,
+g,
+h,
+i,
+dotlessi,
+iacute,
+icircumflex,
+idieresis,
+igrave,
+j,
+k,
+l,
+m,
+n,
+ntilde,
+o,
+oacute,
+ocircumflex,
+odieresis,
+ograve,
+oslash,
+otilde,
+oe,
+p,
+q,
+r,
+s,
+germandbls,
+t,
+u,
+uacute,
+ucircumflex,
+udieresis,
+ugrave,
+v,
+w,
+x,
+y,
+ydieresis,
+z,
+fi,
+fl,
+zero,
+one,
+two,
+three,
+four,
+five,
+six,
+seven,
+eight,
+nine,
+asterisk,
+backslash,
+bullet,
+colon,
+comma,
+ellipsis,
+exclam,
+exclamdown,
+numbersign,
+period,
+periodcentered,
+question,
+questiondown,
+quotedbl,
+quotesingle,
+semicolon,
+slash,
+underscore,
+braceleft,
+braceright,
+bracketleft,
+bracketright,
+parenleft,
+parenright,
+emdash,
+endash,
+hyphen,
+quotedblbase,
+quotedblleft,
+quotedblright,
+quoteleft,
+quoteright,
+quotesinglbase,
+Euro,
+cent,
+dollar,
+sterling,
+yen,
+asciitilde,
+equal,
+greater,
+less,
+percent,
+plus,
+ampersand,
+at,
+bar,
+copyright,
+registered,
+trademark,
+asciicircum,
+acute,
+breve,
+caron,
+cedilla,
+circumflex,
+dieresis,
+dotaccent,
+grave,
+hungarumlaut,
+macron,
+ogonek,
+ring,
+tilde,
+A,
+Aacute,
+Amacron,
+Aogonek,
+Cacute,
+Ccaron,
+Ccircumflex,
+Cdotaccent,
+Eth,
+Dcaron,
+Dcroat,
+Ebreve,
+Ecaron,
+Edotaccent,
+Emacron,
+Eogonek,
+Gbreve,
+Gcircumflex,
+Gcommaaccent,
+Gdotaccent,
+Hbar,
+Hcircumflex,
+IJ,
+Ibreve,
+Idotaccent,
+Imacron,
+Iogonek,
+Itilde,
+Jcircumflex,
+Kcommaaccent,
+Lacute,
+Lcaron,
+Lcommaaccent,
+Ldot,
+Lslash,
+Nacute,
+Ncaron,
+Ncommaaccent,
+Eng,
+Obreve,
+Ohungarumlaut,
+Omacron,
+Thorn,
+Racute,
+Rcaron,
+Rcommaaccent,
+Sacute,
+Scaron,
+Scedilla,
+Scircumflex,
+Tbar,
+Tcaron,
+uni021A,
+Ubreve,
+Uhungarumlaut,
+Umacron,
+Uogonek,
+Uring,
+Utilde,
+Wcircumflex,
+Yacute,
+Ycircumflex,
+Zacute,
+Zcaron,
+Zdotaccent,
+abreve,
+amacron,
+aogonek,
+cacute,
+ccaron,
+ccircumflex,
+cdotaccent,
+eth,
+dcaron,
+dcroat,
+ebreve,
+ecaron,
+edotaccent,
+emacron,
+eogonek,
+gbreve,
+gcircumflex,
+gcommaaccent,
+gdotaccent,
+hbar,
+hcircumflex,
+ibreve,
+ij,
+imacron,
+iogonek,
+itilde,
+jcircumflex,
+kcommaaccent,
+kgreenlandic,
+lacute,
+lcaron,
+lcommaaccent,
+ldot,
+lslash,
+nacute,
+napostrophe,
+ncaron,
+ncommaaccent,
+eng,
+obreve,
+ohungarumlaut,
+omacron,
+thorn,
+racute,
+rcaron,
+rcommaaccent,
+sacute,
+scaron,
+scedilla,
+scircumflex,
+longs,
+tbar,
+tcaron,
+uni021B,
+ubreve,
+uhungarumlaut,
+umacron,
+uogonek,
+uring,
+utilde,
+wcircumflex,
+yacute,
+ycircumflex,
+zacute,
+zcaron,
+zdotaccent,
+Abreve,
+minus,
+uni201F
+);
+}
 );
 date = "2012-08-26 16:25:00 +0000";
 designer = "Tyler Finck";
 designerURL = "http://sursly.com";
+disablesNiceNames = 1;
 familyName = "League Gothic";
 fontMaster = (
 {
@@ -349,10 +352,10 @@ value = "-265";
 },
 {
 name = postscriptUnderlinePosition;
-value = "-75";
+value = -75;
 }
 );
-descender = "-265";
+descender = -265;
 id = "E10EC336-1202-48FF-9A55-15876E80CDFD";
 weightValue = 400;
 widthValue = 5;
@@ -366,7 +369,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 width = 154;
 }
 );
@@ -376,7 +378,6 @@ glyphname = uni0093;
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -413,7 +414,6 @@ glyphname = uni0094;
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -451,7 +451,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 width = 0;
 }
 );
@@ -463,7 +462,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 width = 154;
 }
 );
@@ -475,7 +473,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 width = 154;
 }
 );
@@ -487,7 +484,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -537,7 +533,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -593,7 +588,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -640,7 +634,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -712,7 +705,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -805,7 +797,6 @@ position = "{269, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -849,7 +840,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -944,7 +934,6 @@ position = "{173, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1031,7 +1020,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1140,7 +1128,6 @@ position = "{186, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1212,7 +1199,6 @@ position = "{154, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1243,7 +1229,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1283,7 +1268,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1326,7 +1310,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1375,7 +1358,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1415,7 +1397,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1454,7 +1435,6 @@ position = "{180, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1549,7 +1529,6 @@ position = "{190, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1590,7 +1569,6 @@ position = "{94, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1613,7 +1591,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1645,7 +1622,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1680,7 +1656,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1721,7 +1696,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1759,7 +1733,6 @@ position = "{104, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1804,7 +1777,6 @@ position = "{188, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1850,7 +1822,6 @@ position = "{148, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1875,7 +1846,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1924,7 +1894,6 @@ position = "{198, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1957,7 +1926,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2045,7 +2013,6 @@ position = "{177, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2133,7 +2100,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2230,7 +2196,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2330,7 +2295,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2436,7 +2400,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2539,7 +2502,6 @@ position = "{177, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2646,7 +2608,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2789,7 +2750,6 @@ position = "{240, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2866,7 +2826,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2919,7 +2878,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3024,7 +2982,6 @@ position = "{181, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3085,7 +3042,6 @@ position = "{172, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3195,7 +3151,6 @@ position = "{158, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3232,7 +3187,6 @@ position = "{183, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3287,7 +3241,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3351,7 +3304,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3418,7 +3370,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3491,7 +3442,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3555,7 +3505,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3590,7 +3539,6 @@ position = "{243, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3631,7 +3579,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3674,7 +3621,6 @@ position = "{171, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3705,7 +3651,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3760,7 +3705,6 @@ position = "{153, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3799,7 +3743,6 @@ position = "{167, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3899,7 +3842,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4008,7 +3950,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4120,7 +4061,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4238,7 +4178,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4347,7 +4286,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4481,7 +4419,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4636,7 +4573,6 @@ position = "{242, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4780,7 +4716,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4858,7 +4793,6 @@ position = "{158, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4921,7 +4855,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5002,7 +4935,6 @@ position = "{168, 274}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5084,7 +5016,6 @@ position = "{161, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5169,7 +5100,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5263,7 +5193,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5360,7 +5289,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5463,7 +5391,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5557,7 +5484,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5625,7 +5551,6 @@ position = "{171, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5795,7 +5720,6 @@ position = "{169, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5849,7 +5773,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5891,7 +5814,6 @@ position = "{91, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5914,7 +5836,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5946,7 +5867,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5981,7 +5901,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6022,7 +5941,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6054,7 +5972,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6128,7 +6045,6 @@ position = "{157, 0}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6178,7 +6094,6 @@ position = "{161, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6201,7 +6116,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6289,7 +6203,6 @@ position = "{169, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6343,7 +6256,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6452,7 +6364,6 @@ position = "{161, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6534,7 +6445,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6625,7 +6535,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6719,7 +6628,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6819,7 +6727,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6916,7 +6823,6 @@ position = "{161, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7005,7 +6911,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7142,7 +7047,6 @@ position = "{243, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7276,7 +7180,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7344,7 +7247,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7422,7 +7324,6 @@ position = "{123, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7472,7 +7373,6 @@ position = "{154, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7559,7 +7459,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7644,7 +7543,6 @@ position = "{123, 274}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7715,7 +7613,6 @@ position = "{169, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7766,7 +7663,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7826,7 +7722,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7889,7 +7784,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7958,7 +7852,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8018,7 +7911,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8053,7 +7945,6 @@ position = "{221, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8094,7 +7985,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8137,7 +8027,6 @@ position = "{155, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8188,7 +8077,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8263,7 +8151,6 @@ position = "{130, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8292,7 +8179,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8358,7 +8244,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8422,7 +8307,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8510,7 +8394,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8541,7 +8424,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8609,7 +8491,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8726,7 +8607,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8766,7 +8646,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8840,7 +8719,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8931,7 +8809,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8957,7 +8834,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9083,7 +8959,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9171,7 +9046,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9205,7 +9079,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9228,7 +9101,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9271,7 +9143,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9303,7 +9174,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9329,7 +9199,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9370,7 +9239,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9402,7 +9270,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9434,7 +9301,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9490,7 +9356,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9513,7 +9378,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9536,7 +9400,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9613,7 +9476,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9702,7 +9564,6 @@ lastChange = "2012-08-26 16:34:16 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9752,7 +9613,6 @@ lastChange = "2012-08-26 16:28:28 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9775,7 +9635,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9810,7 +9669,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9833,7 +9691,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9856,7 +9713,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9927,7 +9783,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9995,7 +9850,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10022,7 +9876,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10049,7 +9902,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10094,7 +9946,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10142,7 +9993,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10165,7 +10015,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10188,7 +10037,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10211,7 +10059,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10249,7 +10096,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10287,7 +10133,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10325,7 +10170,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10351,7 +10195,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10377,7 +10220,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10403,7 +10245,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10506,7 +10347,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10563,7 +10403,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10671,7 +10510,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10776,7 +10614,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10821,7 +10658,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10884,7 +10720,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10916,7 +10751,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10942,7 +10776,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10968,7 +10801,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11109,7 +10941,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11140,7 +10971,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11258,7 +11088,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11364,7 +11193,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11387,7 +11215,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11517,7 +11344,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11628,7 +11454,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11674,7 +11499,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11706,7 +11530,6 @@ position = "{423, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11735,7 +11558,6 @@ position = "{395, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11783,7 +11605,6 @@ position = "{403.5, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11815,7 +11636,6 @@ position = "{229.5, 0}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11847,7 +11667,6 @@ position = "{384.5, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11879,7 +11698,6 @@ position = "{395.5, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11917,7 +11735,6 @@ position = "{394.5, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11946,7 +11763,6 @@ position = "{366, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11975,7 +11791,6 @@ position = "{402, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12013,7 +11828,6 @@ position = "{394.5, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12042,7 +11856,6 @@ position = "{307, 10}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12092,11 +11905,10 @@ layers = (
 anchors = (
 {
 name = _top;
-position = "{396.52264616647983, 547}";
+position = "{396.523, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12150,7 +11962,6 @@ position = "{394.5, 547}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12223,7 +12034,6 @@ position = "{187, 735}";
 }
 );
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12261,7 +12071,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12308,7 +12117,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12355,7 +12163,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12422,7 +12229,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12518,7 +12324,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12617,7 +12422,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12716,7 +12520,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12812,7 +12615,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12878,7 +12680,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12948,7 +12749,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13014,7 +12814,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13073,7 +12872,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13116,7 +12914,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13156,7 +12953,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13196,7 +12992,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13256,7 +13051,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13369,7 +13163,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13466,7 +13259,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13563,7 +13355,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13657,7 +13448,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13705,7 +13495,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13748,7 +13537,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13792,7 +13580,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13843,7 +13630,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13875,7 +13661,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13907,7 +13692,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13959,7 +13743,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14028,7 +13811,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14075,7 +13857,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14123,7 +13904,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14157,7 +13937,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14194,7 +13973,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14231,7 +14009,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14265,7 +14042,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14298,7 +14074,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14340,7 +14115,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14385,7 +14159,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14430,7 +14203,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14479,7 +14251,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14595,7 +14366,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14701,7 +14471,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14798,7 +14567,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14853,7 +14621,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14913,7 +14680,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14976,7 +14742,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15039,7 +14804,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15144,7 +14908,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15252,7 +15015,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15360,7 +15122,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15468,7 +15229,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15503,7 +15263,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15542,7 +15301,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15581,7 +15339,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15664,7 +15421,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15737,7 +15493,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15801,7 +15556,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15888,7 +15642,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15977,7 +15730,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16078,7 +15830,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16131,7 +15882,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16171,7 +15921,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16214,7 +15963,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16252,7 +16000,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16293,7 +16040,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16331,7 +16077,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16459,7 +16204,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16568,7 +16312,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16697,7 +16440,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16769,7 +16511,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16844,7 +16585,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16919,7 +16659,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16991,7 +16730,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17099,7 +16837,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17179,7 +16916,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17255,7 +16991,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17368,7 +17103,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17465,7 +17199,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17559,7 +17292,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17653,7 +17385,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17770,7 +17501,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17958,7 +17688,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18130,7 +17859,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18302,7 +18030,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18471,7 +18198,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18533,7 +18259,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18593,7 +18318,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18644,7 +18368,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18730,7 +18453,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18762,7 +18484,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18823,7 +18544,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18895,7 +18615,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18967,7 +18686,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19015,7 +18733,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19051,7 +18768,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19083,7 +18799,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19118,7 +18833,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19153,7 +18867,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19185,7 +18898,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19216,7 +18928,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19279,7 +18990,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19345,7 +19055,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19411,7 +19120,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19477,7 +19185,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19540,7 +19247,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19650,7 +19356,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19750,7 +19455,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19841,7 +19545,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19909,7 +19612,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19958,7 +19660,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20010,7 +19711,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20062,7 +19762,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20158,7 +19857,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20257,7 +19955,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20356,7 +20053,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20455,7 +20151,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20493,7 +20188,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20558,7 +20252,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20631,7 +20324,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20704,7 +20396,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20783,7 +20474,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20852,7 +20542,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20912,7 +20601,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20992,7 +20680,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21077,7 +20764,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21177,7 +20863,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21230,7 +20915,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21290,7 +20974,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21353,7 +21036,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21391,7 +21073,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21432,7 +21113,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21470,7 +21150,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21536,7 +21215,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21559,7 +21237,6 @@ lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
 {
 layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21592,17 +21269,19 @@ width = 305;
 unicode = 201F;
 }
 );
-disablesNiceNames = 1;
 instances = (
 {
+instanceInterpolations = {
+"E10EC336-1202-48FF-9A55-15876E80CDFD" = 1;
+};
 name = Italic;
 }
 );
 kerning = {
 "E10EC336-1202-48FF-9A55-15876E80CDFD" = {
 A = {
-T = "-26";
-W = "-30";
+T = -26;
+W = -30;
 };
 };
 };
