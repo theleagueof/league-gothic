@@ -15187,6 +15187,17 @@ width = 108;
 unicode = 0020;
 },
 {
+glyphname = nbspace;
+layers = (
+{
+layerId = "6463F33F-C059-4755-9C76-9F35D70521A0";
+width = 108;
+}
+);
+widthMetricsKey = space;
+unicode = 00A0;
+},
+{
 glyphname = CR;
 lastChange = "2012-08-26 17:21:30 +0000";
 layers = (

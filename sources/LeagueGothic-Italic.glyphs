@@ -19018,6 +19018,17 @@ width = 154;
 unicode = 0020;
 },
 {
+glyphname = nbspace;
+layers = (
+{
+layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
+width = 154;
+}
+);
+widthMetricsKey = space;
+unicode = 00A0;
+},
+{
 glyphname = uni000D;
 lastChange = "2012-08-26 16:25:30 +0000";
 layers = (
