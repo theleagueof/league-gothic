@@ -20956,8 +20956,8 @@ W = -30;
 };
 };
 manufacturer = "The League of Moveable Type";
-manufacturerURL = "http://theleagueofmoveabletype.com";
+manufacturerURL = "https://www.theleagueofmoveabletype.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 560;
 }
