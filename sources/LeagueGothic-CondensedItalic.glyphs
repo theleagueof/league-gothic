@@ -1,6 +1,17 @@
 {
 .appVersion = "1342";
 copyright = "Copyright (c) 2012 by The League of Moveable Type";
+customParameters = (
+{
+name = Axes;
+value = (
+{
+Name = Width;
+Tag = wdth;
+}
+);
+}
+);
 date = "2012-08-26 17:29:30 +0000";
 designer = "Tyler Finck";
 designerURL = "http://sursly.com";
@@ -15,6 +26,21 @@ alignmentZones = (
 );
 ascender = 735;
 capHeight = 735;
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Width;
+Location = 3;
+}
+);
+}
+);
 descender = -265;
 horizontalStems = (
 82,
@@ -30,7 +56,7 @@ verticalStems = (
 );
 weightValue = 400;
 width = Condensed;
-widthValue = 5;
+widthValue = 3;
 xHeight = 547;
 }
 );
@@ -16832,9 +16858,8 @@ instanceInterpolations = {
 "38BA14EB-08C8-4487-88C1-8F957131FCA1" = 1;
 };
 isItalic = 1;
-linkStyle = Condensed;
+linkStyle = "Condensed Regular";
 name = "Condensed Italic";
-widthClass = Condensed;
 }
 );
 kerning = {
