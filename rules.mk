@@ -1,1 +1,2 @@
 isVariable = false
+HINT =
