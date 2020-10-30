@@ -9,20 +9,6 @@ fontMaster = (
 {
 ascender = 735;
 capHeight = 735;
-customParameters = (
-{
-name = TypoAscender;
-value = 735;
-},
-{
-name = TypoDescender;
-value = "-265";
-},
-{
-name = postscriptUnderlinePosition;
-value = -75;
-}
-);
 descender = -265;
 id = "E10EC336-1202-48FF-9A55-15876E80CDFD";
 weightValue = 400;

@@ -15,17 +15,6 @@ alignmentZones = (
 );
 ascender = 735;
 capHeight = 735;
-custom = Italic;
-customParameters = (
-{
-name = TypoAscender;
-value = 735;
-},
-{
-name = TypoDescender;
-value = "-265";
-}
-);
 descender = -265;
 horizontalStems = (
 82,

@@ -9,16 +9,6 @@ fontMaster = (
 {
 ascender = 735;
 capHeight = 735;
-customParameters = (
-{
-name = openTypeHheaAscender;
-value = 735;
-},
-{
-name = openTypeHheaDescender;
-value = -265;
-}
-);
 descender = -265;
 id = "1AB499B8-18A8-432D-A211-B6882CCB886D";
 verticalStems = (
