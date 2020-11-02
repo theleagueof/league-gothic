@@ -1,6 +1,6 @@
 {
 .appVersion = "1342";
-copyright = "2009 - 2011, The League of Moveable Type";
+copyright = "Copyright (c) 2010, Caroline Hadilaksono &amp; Micah Rich <caroline@hadilaksono, micah@micahrich.com>, with Reserved Font Name: \"League Gothic\".";
 date = "2012-08-26 16:25:00 +0000";
 designer = "Tyler Finck";
 designerURL = "http://sursly.com";
@@ -19016,6 +19016,17 @@ width = 154;
 }
 );
 unicode = 0020;
+},
+{
+glyphname = nbspace;
+layers = (
+{
+layerId = "E10EC336-1202-48FF-9A55-15876E80CDFD";
+width = 154;
+}
+);
+widthMetricsKey = space;
+unicode = 00A0;
 },
 {
 glyphname = uni000D;

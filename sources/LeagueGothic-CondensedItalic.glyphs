@@ -1,6 +1,6 @@
 {
 .appVersion = "1342";
-copyright = "Copyright (c) 2012 by The League of Moveable Type";
+copyright = "Copyright (c) 2010, Caroline Hadilaksono &amp; Micah Rich <caroline@hadilaksono, micah@micahrich.com>, with Reserved Font Name: \"League Gothic\".";
 customParameters = (
 {
 name = Axes;
@@ -15058,6 +15058,17 @@ width = 108;
 }
 );
 unicode = 0020;
+},
+{
+glyphname = nbspace;
+layers = (
+{
+layerId = "38BA14EB-08C8-4487-88C1-8F957131FCA1";
+width = 108;
+}
+);
+widthMetricsKey = space;
+unicode = 00A0;
 },
 {
 glyphname = CR;
