@@ -16982,7 +16982,7 @@ interpolationWeight = 400;
 instanceInterpolations = {
 "6463F33F-C059-4755-9C76-9F35D70521A0" = 1;
 };
-name = "Condensed Regular";
+name = Condensed;
 }
 );
 kerning = {

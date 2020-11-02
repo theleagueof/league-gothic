@@ -16858,7 +16858,7 @@ instanceInterpolations = {
 "38BA14EB-08C8-4487-88C1-8F957131FCA1" = 1;
 };
 isItalic = 1;
-linkStyle = "Condensed Regular";
+linkStyle = Condensed;
 name = "Condensed Italic";
 }
 );
