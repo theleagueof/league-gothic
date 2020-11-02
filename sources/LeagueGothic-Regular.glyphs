@@ -1,5 +1,6 @@
 {
-copyright = "2009 - 2011, The League of Moveable Type";
+.appVersion = "1342";
+copyright = "Copyright (c) 2010, Caroline Hadilaksono &amp; Micah Rich <caroline@hadilaksono, micah@micahrich.com>, with Reserved Font Name: \"League Gothic\".";
 date = "2012-05-22 22:56:09 +0000";
 designer = "The League of Moveable Type";
 designerURL = "http://theleagueofmoveabletype.com";
@@ -8,17 +9,7 @@ fontMaster = (
 {
 ascender = 735;
 capHeight = 735;
-customParameters = (
-{
-name = openTypeHheaAscender;
-value = 735;
-},
-{
-name = openTypeHheaDescender;
-value = "-265";
-}
-);
-descender = "-265";
+descender = -265;
 id = "1AB499B8-18A8-432D-A211-B6882CCB886D";
 verticalStems = (
 101,
@@ -46,7 +37,6 @@ position = "{187, 735}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -86,7 +76,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -135,7 +124,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -204,7 +192,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -256,7 +243,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -314,7 +300,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -363,7 +348,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -410,7 +394,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -479,7 +462,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -553,7 +535,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -642,7 +623,6 @@ position = "{269, 735}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -686,7 +666,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -778,7 +757,6 @@ position = "{173, 735}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -865,7 +843,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -961,7 +938,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1060,7 +1036,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1159,7 +1134,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1258,7 +1232,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1364,7 +1337,6 @@ position = "{186, 735}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1422,7 +1394,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1488,7 +1459,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1558,7 +1528,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1639,7 +1608,6 @@ position = "{154, 735}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1671,7 +1639,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1712,7 +1679,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1774,7 +1740,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1817,7 +1782,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1861,7 +1825,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1911,7 +1874,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1951,7 +1913,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -1992,7 +1953,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2032,7 +1992,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2094,7 +2053,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2133,7 +2091,6 @@ position = "{180, 735}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2218,7 +2175,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2334,7 +2290,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2431,7 +2386,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2528,7 +2482,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2632,7 +2585,6 @@ position = "{190, 735}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2663,7 +2615,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2703,7 +2654,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2756,7 +2706,6 @@ position = "{94, 735}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2781,7 +2730,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2825,7 +2773,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2859,7 +2806,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2913,7 +2859,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2950,7 +2895,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -2993,7 +2937,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3025,7 +2968,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3059,7 +3001,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3091,7 +3032,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3145,7 +3085,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3217,7 +3156,6 @@ position = "{104, 735}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3252,7 +3190,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3309,7 +3246,6 @@ position = "{188, 735}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3346,7 +3282,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3405,7 +3340,6 @@ position = "{148, 735}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3430,7 +3364,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3464,7 +3397,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3501,7 +3433,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3538,7 +3469,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3572,7 +3502,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3605,7 +3534,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3656,7 +3584,6 @@ position = "{198, 735}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3691,7 +3618,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3735,7 +3661,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3782,7 +3707,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3829,7 +3753,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3885,7 +3808,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -3969,7 +3891,6 @@ position = "{177, 735}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4057,7 +3978,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4154,7 +4074,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4273,7 +4192,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4373,7 +4291,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4479,7 +4396,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4576,7 +4492,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4682,7 +4597,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4785,7 +4699,6 @@ position = "{177, 735}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -4886,7 +4799,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5023,7 +4935,6 @@ position = "{240, 735}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5103,7 +5014,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5156,7 +5066,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5211,7 +5120,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5316,7 +5224,6 @@ position = "{181, 735}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5367,7 +5274,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5427,7 +5333,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5490,7 +5395,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5563,7 +5467,6 @@ position = "{172, 735}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5654,7 +5557,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5753,7 +5655,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5856,7 +5757,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -5958,7 +5858,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6074,7 +5973,6 @@ position = "{158, 735}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6101,7 +5999,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6137,7 +6034,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6176,7 +6072,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6225,7 +6120,6 @@ position = "{183, 735}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6280,7 +6174,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6344,7 +6237,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6430,7 +6322,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6497,7 +6388,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6570,7 +6460,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6634,7 +6523,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6707,7 +6595,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6771,7 +6658,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6857,7 +6743,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -6946,7 +6831,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7044,7 +6928,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7080,7 +6963,6 @@ position = "{253, 735}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7122,7 +7004,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7175,7 +7056,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7218,7 +7098,6 @@ position = "{171, 735}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7251,7 +7130,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7293,7 +7171,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7336,7 +7213,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7393,7 +7269,6 @@ position = "{153, 735}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7422,7 +7297,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7460,7 +7334,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7501,7 +7374,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7549,7 +7421,6 @@ position = "{167, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7650,7 +7521,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7760,7 +7630,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -7890,7 +7759,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8003,7 +7871,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8122,7 +7989,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8232,7 +8098,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8340,7 +8205,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8470,7 +8334,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8605,7 +8468,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8755,7 +8617,6 @@ position = "{242, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8893,7 +8754,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -8972,7 +8832,6 @@ position = "{158, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9037,7 +8896,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9109,7 +8967,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9184,7 +9041,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9261,7 +9117,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9336,7 +9191,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9414,7 +9268,6 @@ position = "{168, 274}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9483,7 +9336,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9584,7 +9436,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9664,7 +9515,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9755,7 +9605,6 @@ position = "{161, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9839,7 +9688,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -9932,7 +9780,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10045,7 +9892,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10139,7 +9985,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10235,7 +10080,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10337,7 +10181,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10428,7 +10271,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10521,7 +10363,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10612,7 +10453,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10725,7 +10565,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10789,7 +10628,6 @@ position = "{171, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -10953,7 +10791,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11148,7 +10985,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11324,7 +11160,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11500,7 +11335,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11683,7 +11517,6 @@ position = "{169, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11735,7 +11568,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11795,7 +11627,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11858,7 +11689,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11902,7 +11732,6 @@ position = "{91, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11925,7 +11754,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -11959,7 +11787,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12013,7 +11840,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12050,7 +11876,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12093,7 +11918,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12127,7 +11951,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12204,7 +12027,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12236,7 +12058,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12299,7 +12120,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12365,7 +12185,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12424,7 +12243,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12501,7 +12319,6 @@ position = "{157, 0}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12538,7 +12355,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12587,7 +12403,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12638,7 +12453,6 @@ position = "{161, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12663,7 +12477,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12695,7 +12508,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12730,7 +12542,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12765,7 +12576,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12797,7 +12607,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12828,7 +12637,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12915,7 +12723,6 @@ position = "{169, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -12968,7 +12775,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13028,7 +12834,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13091,7 +12896,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13154,7 +12958,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13217,7 +13020,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13289,7 +13091,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13391,7 +13192,6 @@ position = "{161, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13469,7 +13269,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13556,7 +13355,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13663,7 +13461,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13753,7 +13550,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13849,7 +13645,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -13936,7 +13731,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14030,7 +13824,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14121,7 +13914,6 @@ position = "{161, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14210,7 +14002,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14337,7 +14128,6 @@ position = "{243, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14464,7 +14254,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14534,7 +14323,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14603,7 +14391,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14682,7 +14469,6 @@ position = "{123, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14723,7 +14509,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14772,7 +14557,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14824,7 +14608,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14886,7 +14669,6 @@ position = "{154, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -14974,7 +14756,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15070,7 +14851,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15170,7 +14950,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15269,7 +15048,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15368,7 +15146,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15440,7 +15217,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15485,7 +15261,6 @@ position = "{123, 274}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15540,7 +15315,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15604,7 +15378,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15671,7 +15444,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15748,7 +15520,6 @@ position = "{169, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15800,7 +15571,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15861,7 +15631,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -15943,7 +15712,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16007,7 +15775,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16077,7 +15844,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16138,7 +15904,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16207,7 +15972,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16267,7 +16031,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16349,7 +16112,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16434,7 +16196,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16528,7 +16289,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16565,7 +16325,6 @@ position = "{221, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16608,7 +16367,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16661,7 +16419,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16704,7 +16461,6 @@ position = "{155, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16759,7 +16515,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16823,7 +16578,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16888,7 +16642,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16967,7 +16720,6 @@ position = "{130, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -16996,7 +16748,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17034,7 +16785,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17075,7 +16825,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17113,7 +16862,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17173,7 +16921,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17231,7 +16978,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17319,7 +17065,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17350,7 +17095,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17415,7 +17159,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17517,7 +17260,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17558,7 +17300,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17632,7 +17373,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17720,7 +17460,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17746,7 +17485,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17863,7 +17601,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17951,7 +17688,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -17985,7 +17721,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18008,7 +17743,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18051,7 +17785,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18083,7 +17816,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18109,7 +17841,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18150,7 +17881,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18182,7 +17912,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18214,7 +17943,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18270,7 +17998,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18293,7 +18020,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18316,7 +18042,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18393,7 +18118,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18470,7 +18194,6 @@ lastChange = "2012-08-26 18:00:07 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18502,7 +18225,6 @@ lastChange = "2012-08-26 17:59:09 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18526,7 +18248,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18561,7 +18282,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18584,7 +18304,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18607,7 +18326,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18675,7 +18393,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18743,7 +18460,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18771,7 +18487,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18799,7 +18514,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18844,7 +18558,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18889,7 +18602,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18912,7 +18624,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18935,7 +18646,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18958,7 +18668,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -18996,7 +18705,6 @@ lastChange = "2012-05-23 23:15:09 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19035,7 +18743,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19074,7 +18781,6 @@ lastChange = "2012-05-23 23:15:19 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19101,7 +18807,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19128,7 +18833,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19154,7 +18858,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 width = 154;
 }
 );
@@ -19166,7 +18869,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 width = 154;
 }
 );
@@ -19177,7 +18879,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19237,7 +18938,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19339,7 +19039,6 @@ lastChange = "2012-06-16 14:54:02 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19442,7 +19141,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19547,7 +19245,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19592,7 +19289,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19649,7 +19345,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19681,7 +19376,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19707,7 +19401,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19733,7 +19426,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19756,7 +19448,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19897,7 +19588,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -19928,7 +19618,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20049,7 +19738,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20155,7 +19843,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20180,7 +19867,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20313,7 +19999,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20424,7 +20109,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20470,7 +20154,6 @@ lastChange = "2012-05-22 22:56:21 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20502,7 +20185,6 @@ position = "{278.5, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20531,7 +20213,6 @@ position = "{250, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20582,7 +20263,6 @@ position = "{249.5, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20614,7 +20294,6 @@ position = "{250, 0}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20646,7 +20325,6 @@ position = "{249.5, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20678,7 +20356,6 @@ position = "{250, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20716,7 +20393,6 @@ position = "{249.5, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20745,7 +20421,6 @@ position = "{221.5, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20774,7 +20449,6 @@ position = "{257.5, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20812,7 +20486,6 @@ position = "{250, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20841,7 +20514,6 @@ position = "{331, 10}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20892,7 +20564,6 @@ position = "{249.5, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -20946,7 +20617,6 @@ position = "{250, 547}";
 }
 );
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21003,7 +20673,6 @@ lastChange = "2012-08-30 15:11:02 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21042,7 +20711,6 @@ lastChange = "2012-08-30 15:11:26 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21081,7 +20749,6 @@ lastChange = "2012-06-16 14:53:25 +0000";
 layers = (
 {
 layerId = "1AB499B8-18A8-432D-A211-B6882CCB886D";
-name = Regular;
 paths = (
 {
 closed = 1;
@@ -21115,9 +20782,12 @@ leftKerningGroup = quotesingle;
 unicode = 201F;
 }
 );
-disablesNiceNames = 1;
 instances = (
 {
+interpolationWeight = 400;
+instanceInterpolations = {
+"1AB499B8-18A8-432D-A211-B6882CCB886D" = 1;
+};
 name = Regular;
 weightClass = Normal;
 }
@@ -21125,269 +20795,269 @@ weightClass = Normal;
 kerning = {
 "1AB499B8-18A8-432D-A211-B6882CCB886D" = {
 "@MMK_L_A" = {
-"@MMK_R_S" = "-10";
-"@MMK_R_V" = "-22";
-"@MMK_R_Y" = "-25";
-"@MMK_R_v" = "-6";
-T = "-22";
+"@MMK_R_S" = -10;
+"@MMK_R_V" = -22;
+"@MMK_R_Y" = -25;
+"@MMK_R_v" = -6;
+T = -22;
 };
 "@MMK_L_E" = {
 "@MMK_R_A" = 2;
 };
 "@MMK_L_Y" = {
-"@MMK_R_A" = "-25";
-"@MMK_R_a" = "-42";
-"@MMK_R_c" = "-40";
-"@MMK_R_d" = "-25";
+"@MMK_R_A" = -25;
+"@MMK_R_a" = -42;
+"@MMK_R_c" = -40;
+"@MMK_R_d" = -25;
 };
 "@MMK_L_a" = {
-"@MMK_R_l" = "-3";
-"@MMK_R_n" = "-3";
-"@MMK_R_s" = "-4";
-"@MMK_R_v" = "-4";
-f = "-5";
-t = "-7";
+"@MMK_R_l" = -3;
+"@MMK_R_n" = -3;
+"@MMK_R_s" = -4;
+"@MMK_R_v" = -4;
+f = -5;
+t = -7;
 };
 "@MMK_L_b" = {
-"@MMK_R_a" = "-6";
-"@MMK_R_s" = "-5";
-t = "-6";
+"@MMK_R_a" = -6;
+"@MMK_R_s" = -5;
+t = -6;
 };
 "@MMK_L_c" = {
-"@MMK_R_a" = "-5";
-"@MMK_R_icircumflex" = "-2";
-"@MMK_R_l" = "-2";
-"@MMK_R_n" = "-2";
-"@MMK_R_s" = "-4";
-"@MMK_R_v" = "-5";
-f = "-5";
-t = "-5";
+"@MMK_R_a" = -5;
+"@MMK_R_icircumflex" = -2;
+"@MMK_R_l" = -2;
+"@MMK_R_n" = -2;
+"@MMK_R_s" = -4;
+"@MMK_R_v" = -5;
+f = -5;
+t = -5;
 };
 "@MMK_L_icircumflex" = {
-"@MMK_R_c" = "-2";
+"@MMK_R_c" = -2;
 };
 "@MMK_L_l" = {
-"@MMK_R_c" = "-2";
-"@MMK_R_s" = "-5";
-t = "-4";
+"@MMK_R_c" = -2;
+"@MMK_R_s" = -5;
+t = -4;
 };
 "@MMK_L_u" = {
-"@MMK_R_c" = "-4";
-"@MMK_R_s" = "-4";
-"@MMK_R_v" = "-5";
-t = "-5";
+"@MMK_R_c" = -4;
+"@MMK_R_s" = -4;
+"@MMK_R_v" = -5;
+t = -5;
 };
 "@MMK_L_v" = {
-"@MMK_R_a" = "-7";
-"@MMK_R_c" = "-3";
+"@MMK_R_a" = -7;
+"@MMK_R_c" = -3;
 "@MMK_R_quotesingle" = 12;
 };
 Aacute = {
-T = "-22";
+T = -22;
 };
 Acircumflex = {
-T = "-22";
+T = -22;
 };
 Adieresis = {
-T = "-22";
+T = -22;
 };
 Agrave = {
-T = "-22";
+T = -22;
 };
 Aring = {
-T = "-22";
+T = -22;
 };
 Atilde = {
-T = "-22";
+T = -22;
 };
 B = {
-"@MMK_R_Y" = "-10";
-Yacute = "-10";
-Ydieresis = "-10";
+"@MMK_R_Y" = -10;
+Yacute = -10;
+Ydieresis = -10;
 };
 F = {
-"@MMK_R_a" = "-10";
-"@MMK_R_c" = "-10";
-aacute = "-10";
-acircumflex = "-10";
-adieresis = "-10";
-agrave = "-10";
-aring = "-10";
-atilde = "-10";
-ccedilla = "-10";
-e = "-10";
-eacute = "-10";
-ecircumflex = "-10";
-edieresis = "-10";
-egrave = "-10";
-o = "-10";
-oacute = "-10";
-ocircumflex = "-10";
-odieresis = "-10";
-oe = "-10";
-ograve = "-10";
-otilde = "-10";
+"@MMK_R_a" = -10;
+"@MMK_R_c" = -10;
+aacute = -10;
+acircumflex = -10;
+adieresis = -10;
+agrave = -10;
+aring = -10;
+atilde = -10;
+ccedilla = -10;
+e = -10;
+eacute = -10;
+ecircumflex = -10;
+edieresis = -10;
+egrave = -10;
+o = -10;
+oacute = -10;
+ocircumflex = -10;
+odieresis = -10;
+oe = -10;
+ograve = -10;
+otilde = -10;
 };
 I = {
-t = "-4";
+t = -4;
 };
 Iacute = {
-t = "-4";
+t = -4;
 };
 Igrave = {
-t = "-4";
+t = -4;
 };
 L = {
 "@MMK_R_A" = 10;
-"@MMK_R_Y" = "-20";
+"@MMK_R_Y" = -20;
 Aacute = 10;
 Acircumflex = 10;
 Adieresis = 10;
 Agrave = 10;
 Aring = 10;
 Atilde = 10;
-Yacute = "-20";
-Ydieresis = "-20";
+Yacute = -20;
+Ydieresis = -20;
 };
 O = {
-T = "-10";
+T = -10;
 };
 Oacute = {
-T = "-10";
+T = -10;
 };
 Ocircumflex = {
-T = "-10";
+T = -10;
 };
 Odieresis = {
-T = "-10";
+T = -10;
 };
 Ograve = {
-T = "-10";
+T = -10;
 };
 Otilde = {
-T = "-10";
+T = -10;
 };
 P = {
-"@MMK_R_c" = "-12";
-ccedilla = "-12";
-e = "-12";
-eacute = "-12";
-ecircumflex = "-12";
-edieresis = "-12";
-egrave = "-12";
-o = "-12";
-oacute = "-12";
-ocircumflex = "-12";
-odieresis = "-12";
-oe = "-12";
-ograve = "-12";
-otilde = "-12";
+"@MMK_R_c" = -12;
+ccedilla = -12;
+e = -12;
+eacute = -12;
+ecircumflex = -12;
+edieresis = -12;
+egrave = -12;
+o = -12;
+oacute = -12;
+ocircumflex = -12;
+odieresis = -12;
+oe = -12;
+ograve = -12;
+otilde = -12;
 };
 T = {
-"@MMK_R_A" = "-22";
-"@MMK_R_a" = "-32";
-"@MMK_R_c" = "-28";
-"@MMK_R_n" = "-26";
-"@MMK_R_v" = "-5";
-Aacute = "-22";
-Acircumflex = "-22";
-Adieresis = "-22";
-Agrave = "-22";
-Aring = "-22";
-Atilde = "-22";
+"@MMK_R_A" = -22;
+"@MMK_R_a" = -32;
+"@MMK_R_c" = -28;
+"@MMK_R_n" = -26;
+"@MMK_R_v" = -5;
+Aacute = -22;
+Acircumflex = -22;
+Adieresis = -22;
+Agrave = -22;
+Aring = -22;
+Atilde = -22;
 T = 8;
-aacute = "-32";
-acircumflex = "-32";
-adieresis = "-32";
-agrave = "-32";
-aring = "-32";
-atilde = "-32";
-ccedilla = "-28";
-e = "-28";
-eacute = "-28";
-ecircumflex = "-28";
-edieresis = "-28";
-egrave = "-28";
-m = "-26";
-ntilde = "-26";
-o = "-28";
-oacute = "-28";
-ocircumflex = "-28";
-odieresis = "-28";
-oe = "-28";
-ograve = "-28";
-otilde = "-28";
-p = "-26";
-r = "-26";
-w = "-5";
-x = "-20";
-y = "-5";
-yacute = "-5";
-ydieresis = "-5";
+aacute = -32;
+acircumflex = -32;
+adieresis = -32;
+agrave = -32;
+aring = -32;
+atilde = -32;
+ccedilla = -28;
+e = -28;
+eacute = -28;
+ecircumflex = -28;
+edieresis = -28;
+egrave = -28;
+m = -26;
+ntilde = -26;
+o = -28;
+oacute = -28;
+ocircumflex = -28;
+odieresis = -28;
+oe = -28;
+ograve = -28;
+otilde = -28;
+p = -26;
+r = -26;
+w = -5;
+x = -20;
+y = -5;
+yacute = -5;
+ydieresis = -5;
 };
 aacute = {
-f = "-5";
-t = "-7";
+f = -5;
+t = -7;
 };
 acircumflex = {
-f = "-5";
-t = "-7";
+f = -5;
+t = -7;
 };
 adieresis = {
-f = "-5";
-t = "-7";
+f = -5;
+t = -7;
 };
 agrave = {
-f = "-5";
-t = "-7";
+f = -5;
+t = -7;
 };
 aring = {
-f = "-5";
-t = "-7";
+f = -5;
+t = -7;
 };
 atilde = {
-f = "-5";
-t = "-7";
+f = -5;
+t = -7;
 };
 bar = {
-t = "-4";
+t = -4;
 };
 ccedilla = {
-f = "-5";
-t = "-5";
+f = -5;
+t = -5;
 };
 e = {
-f = "-5";
-t = "-5";
+f = -5;
+t = -5;
 };
 eacute = {
-f = "-5";
-t = "-5";
+f = -5;
+t = -5;
 };
 ecircumflex = {
-f = "-5";
-t = "-5";
+f = -5;
+t = -5;
 };
 edieresis = {
-f = "-5";
-t = "-5";
+f = -5;
+t = -5;
 };
 egrave = {
-f = "-5";
-t = "-5";
+f = -5;
+t = -5;
 };
 eight = {
-two = "-4";
+two = -4;
 };
 f = {
-"@MMK_R_a" = "-2";
-aacute = "-2";
-acircumflex = "-2";
-adieresis = "-2";
-agrave = "-2";
-aring = "-2";
-atilde = "-2";
-f = "-6";
+"@MMK_R_a" = -2;
+aacute = -2;
+acircumflex = -2;
+adieresis = -2;
+agrave = -2;
+aring = -2;
+atilde = -2;
+f = -6;
 };
 four = {
 eight = 8;
@@ -21395,490 +21065,165 @@ nine = 2;
 three = 5;
 };
 g = {
-"@MMK_R_c" = "-5";
-"@MMK_R_s" = "-4";
-ccedilla = "-5";
+"@MMK_R_c" = -5;
+"@MMK_R_s" = -4;
+ccedilla = -5;
 comma = 10;
-e = "-5";
-eacute = "-5";
-ecircumflex = "-5";
-edieresis = "-5";
-egrave = "-5";
-o = "-5";
-oacute = "-5";
-ocircumflex = "-5";
-odieresis = "-5";
-oe = "-5";
-ograve = "-5";
-otilde = "-5";
+e = -5;
+eacute = -5;
+ecircumflex = -5;
+edieresis = -5;
+egrave = -5;
+o = -5;
+oacute = -5;
+ocircumflex = -5;
+odieresis = -5;
+oe = -5;
+ograve = -5;
+otilde = -5;
 quotesinglbase = 10;
-scaron = "-4";
+scaron = -4;
 };
 h = {
-t = "-6";
+t = -6;
 };
 hyphen = {
-seven = "-20";
+seven = -20;
 };
 i = {
-t = "-4";
+t = -4;
 };
 iacute = {
-t = "-4";
+t = -4;
 };
 igrave = {
-t = "-4";
+t = -4;
 };
 k = {
-"@MMK_R_c" = "-5";
-ccedilla = "-5";
-e = "-5";
-eacute = "-5";
-ecircumflex = "-5";
-edieresis = "-5";
-egrave = "-5";
-o = "-5";
-oacute = "-5";
-ocircumflex = "-5";
-odieresis = "-5";
-oe = "-5";
-ograve = "-5";
-otilde = "-5";
+"@MMK_R_c" = -5;
+ccedilla = -5;
+e = -5;
+eacute = -5;
+ecircumflex = -5;
+edieresis = -5;
+egrave = -5;
+o = -5;
+oacute = -5;
+ocircumflex = -5;
+odieresis = -5;
+oe = -5;
+ograve = -5;
+otilde = -5;
 };
 m = {
-t = "-6";
+t = -6;
 };
 n = {
-t = "-6";
+t = -6;
 };
 ntilde = {
-t = "-6";
+t = -6;
 };
 o = {
-f = "-5";
-t = "-5";
+f = -5;
+t = -5;
 };
 oacute = {
-f = "-5";
-t = "-5";
+f = -5;
+t = -5;
 };
 ocircumflex = {
-f = "-5";
-t = "-5";
+f = -5;
+t = -5;
 };
 odieresis = {
-f = "-5";
-t = "-5";
+f = -5;
+t = -5;
 };
 oe = {
-f = "-5";
-t = "-5";
+f = -5;
+t = -5;
 };
 ograve = {
-f = "-5";
-t = "-5";
+f = -5;
+t = -5;
 };
 otilde = {
-f = "-5";
-t = "-5";
+f = -5;
+t = -5;
 };
 p = {
-t = "-6";
+t = -6;
 };
 r = {
-"@MMK_R_a" = "-8";
-"@MMK_R_c" = "-4";
-"@MMK_R_s" = "-5";
-aacute = "-8";
-acircumflex = "-8";
-adieresis = "-8";
-agrave = "-8";
-aring = "-8";
-atilde = "-8";
-ccedilla = "-4";
-e = "-4";
-eacute = "-4";
-ecircumflex = "-4";
-edieresis = "-4";
-egrave = "-4";
-o = "-4";
-oacute = "-4";
-ocircumflex = "-4";
-odieresis = "-4";
-oe = "-4";
-ograve = "-4";
-otilde = "-4";
-scaron = "-5";
+"@MMK_R_a" = -8;
+"@MMK_R_c" = -4;
+"@MMK_R_s" = -5;
+aacute = -8;
+acircumflex = -8;
+adieresis = -8;
+agrave = -8;
+aring = -8;
+atilde = -8;
+ccedilla = -4;
+e = -4;
+eacute = -4;
+ecircumflex = -4;
+edieresis = -4;
+egrave = -4;
+o = -4;
+oacute = -4;
+ocircumflex = -4;
+odieresis = -4;
+oe = -4;
+ograve = -4;
+otilde = -4;
+scaron = -5;
 };
 s = {
-t = "-9";
+t = -9;
 };
 scaron = {
-t = "-9";
+t = -9;
 };
 seven = {
-four = "-12";
+four = -12;
 one = 5;
 };
 t = {
-"@MMK_R_a" = "-2";
-aacute = "-2";
-acircumflex = "-2";
-adieresis = "-2";
-agrave = "-2";
-aring = "-2";
-atilde = "-2";
-t = "-6";
+"@MMK_R_a" = -2;
+aacute = -2;
+acircumflex = -2;
+adieresis = -2;
+agrave = -2;
+aring = -2;
+atilde = -2;
+t = -6;
 z = 6;
 };
 thorn = {
-t = "-6";
+t = -6;
 };
 three = {
-seven = "-2";
+seven = -2;
 };
 uacute = {
-t = "-5";
+t = -5;
 };
 ucircumflex = {
-t = "-5";
+t = -5;
 };
 udieresis = {
-t = "-5";
+t = -5;
 };
 ugrave = {
-t = "-5";
+t = -5;
 };
 };
 };
+manufacturer = "The League of Moveable Type";
+manufacturerURL = "https://www.theleagueofmoveabletype.com";
 unitsPerEm = 1000;
-userData = {
-org.robofab.ufoLib = {
-org.robofab.glyphOrder = (
-.notdef,
-D,
-F,
-H,
-J,
-L,
-N,
-P,
-R,
-T,
-V,
-X,
-Z,
-b,
-d,
-f,
-h,
-j,
-l,
-n,
-C,
-E,
-G,
-I,
-K,
-M,
-O,
-Q,
-S,
-U,
-W,
-Y,
-A,
-c,
-e,
-g,
-i,
-k,
-m,
-o,
-a,
-p,
-q,
-r,
-s,
-t,
-u,
-v,
-w,
-x,
-y,
-z,
-one,
-two,
-four,
-six,
-eight,
-zero,
-three,
-five,
-seven,
-nine,
-space,
-period,
-semicolon,
-comma,
-colon,
-exclam,
-dollar,
-ampersand,
-question,
-hyphen,
-quotesingle,
-slash,
-underscore,
-equal,
-plus,
-greater,
-quotedblright,
-quotedblleft,
-endash,
-emdash,
-minus,
-bar,
-asciitilde,
-bracketleft,
-bracketright,
-backslash,
-braceleft,
-braceright,
-at,
-asterisk,
-bullet,
-parenleft,
-grave,
-percent,
-numbersign,
-quotedbl,
-parenright,
-less,
-asciicircum,
-trademark,
-registered,
-copyright,
-cent,
-quoteleft,
-quoteright,
-questiondown,
-exclamdown,
-sterling,
-ellipsis,
-fi,
-fl,
-yen,
-acute,
-circumflex,
-dieresis,
-tilde,
-Adieresis,
-Eacute,
-Ntilde,
-Odieresis,
-Udieresis,
-aacute,
-eacute,
-iacute,
-oacute,
-agrave,
-egrave,
-acircumflex,
-adieresis,
-atilde,
-ecircumflex,
-edieresis,
-igrave,
-icircumflex,
-idieresis,
-ntilde,
-ograve,
-ocircumflex,
-odieresis,
-otilde,
-uacute,
-ugrave,
-ucircumflex,
-udieresis,
-Oslash,
-oslash,
-ae,
-oe,
-Agrave,
-AE,
-Aacute,
-Atilde,
-Otilde,
-ydieresis,
-Ydieresis,
-Acircumflex,
-Ecircumflex,
-Edieresis,
-Egrave,
-Iacute,
-Igrave,
-Icircumflex,
-Idieresis,
-Oacute,
-Ograve,
-Ocircumflex,
-Uacute,
-Ugrave,
-Ucircumflex,
-Yacute,
-yacute,
-OE,
-dotlessi,
-breve,
-caron,
-ogonek,
-cedilla,
-ring,
-dotaccent,
-hungarumlaut,
-periodcentered,
-quotesinglbase,
-quotedblbase,
-Aring,
-aring,
-ccedilla,
-Ccedilla,
-Zcaron,
-zcaron,
-Scaron,
-scaron,
-macron,
-Euro,
-Thorn,
-thorn,
-lslash,
-Eth,
-Lslash,
-eth,
-germandbls,
-B,
-jcircumflex,
-Ccaron,
-ccaron,
-Dcaron,
-dcaron,
-Dcroat,
-dcroat,
-ebreve,
-Ebreve,
-Abreve,
-abreve,
-Ncaron,
-ncaron,
-ohungarumlaut,
-Ohungarumlaut,
-Racute,
-racute,
-Rcaron,
-rcaron,
-Sacute,
-sacute,
-Scircumflex,
-scircumflex,
-obreve,
-Obreve,
-Utilde,
-utilde,
-Tcaron,
-tcaron,
-itilde,
-Itilde,
-ccircumflex,
-Ccircumflex,
-Amacron,
-amacron,
-gdotaccent,
-Gdotaccent,
-ldot,
-Umacron,
-umacron,
-Ubreve,
-ubreve,
-Uring,
-uring,
-Uhungarumlaut,
-uhungarumlaut,
-Wcircumflex,
-ycircumflex,
-Ycircumflex,
-wcircumflex,
-Zacute,
-zacute,
-Zdotaccent,
-zdotaccent,
-scedilla,
-Scedilla,
-rcommaaccent,
-Rcommaaccent,
-Kcommaaccent,
-kcommaaccent,
-Jcircumflex,
-Idotaccent,
-iogonek,
-Iogonek,
-ibreve,
-Ibreve,
-omacron,
-Omacron,
-ncommaaccent,
-Ncommaaccent,
-nacute,
-Nacute,
-Gcommaaccent,
-gcommaaccent,
-Hcircumflex,
-hcircumflex,
-Aogonek,
-aogonek,
-Cacute,
-cacute,
-Cdotaccent,
-cdotaccent,
-Emacron,
-emacron,
-Edotaccent,
-edotaccent,
-Eogonek,
-eogonek,
-Ecaron,
-ecaron,
-Gcircumflex,
-gcircumflex,
-Gbreve,
-gbreve,
-napostrophe,
-Tcommaaccent,
-tcommaaccent,
-imacron,
-Imacron,
-Lacute,
-lacute,
-Lcommaaccent,
-lcommaaccent,
-Lcaron,
-lcaron,
-Ldot,
-Uogonek,
-uogonek,
-ij,
-IJ,
-kgreenlandic,
-hbar,
-Hbar,
-tbar,
-Tbar,
-longs,
-Eng,
-eng
-);
-};
-};
 versionMajor = 1;
 versionMinor = 560;
 }
