@@ -3,3 +3,12 @@ LeagueGothic-*
 .DS_Store
 *(Autosaved)*
 tags
+*.otf
+*.ttf
+*.woff
+*.woff2
+!*/LeagueGothic-*
+sources/*(Autosaved).glyphs
+sources/*_backups
+sources/*.sfd
+sources/*.ufo
