@@ -3,7 +3,6 @@ name: Fontship
 on: [push, pull_request]
 
 jobs:
-
   fontship:
     runs-on: ubuntu-20.04
     name: Fontship
@@ -17,9 +16,9 @@ jobs:
           git fetch --prune --tags ||:
       - name: Fontship make
         id: fontship
-        uses: docker://theleagueof/fontship:v0.6.2
+        uses: theleagueof/fontship@v0.8.2
       - name: Upload artifacts
-        uses: actions/upload-artifact@v2-preview
+        uses: actions/upload-artifact@v2
         with:
           name: ${{ steps.fontship.outputs.DISTDIR }}
           path: ${{ steps.fontship.outputs.DISTDIR }}.zip
