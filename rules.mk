@@ -1,2 +1,0 @@
-isVariable = false
-HINT =
