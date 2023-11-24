@@ -1,12 +1,6 @@
-    Copyright (c) 2020, Caleb Maclennan <caleb@alerque>
+    Copyright (c) 1996-2023, Isabel Schoeps Thiel <si.ethereum@gmail.com>
 
-    Copyright (c) 2010-2012, Micah Rich <micah@micahrich.com>,
-    with Reserved Font Name: "League Gothic".
-
-    Copyright (c) 2010, Caroline Hadilaksono <caroline@hadilaksono>
-
-    This Font Software is licensed under the SIL Open Font License, Version 1.1.
-    This license is copied below, and is also available with a FAQ at:
+    This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at:
     http://scripts.sil.org/OFL
 
     Version 1.1 - 26 February 2007
@@ -49,7 +43,7 @@ copyright statement(s).
 distributed by the Copyright Holder(s).
 
 `"Modified Version"` refers to any derivative made by adding to, deleting,
-or substituting -- in part or in whole -- any of the components of the
+or substituting -- in part or in whole -- any of the components of theö
 Original Version, by changing formats or by porting the Font Software to a
 new environment.
 
