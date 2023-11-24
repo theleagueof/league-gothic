@@ -1,4 +1,4 @@
-name: Fontship
+name: isabelschoeps-github
 
 on: [push, pull_request]
 
