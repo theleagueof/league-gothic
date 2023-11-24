@@ -1,4 +1,4 @@
-![League Gothic](https://github.com/theleagueof/league-gothic/raw/master/images/league-gothic-1.png)
+![github-isabelschoeps](https://github.com/theleagueof/league-gothic/raw/master/images/league-gothic-1.png)
 
 League Gothic
 =============
